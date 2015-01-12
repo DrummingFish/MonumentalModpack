@@ -1,0 +1,16 @@
+//---Items---//
+item.nhave.wrench.name = Wrench
+item.nhave.gear.name = Iron Gear
+
+//---Blocks---//
+tile.nhave.blockModding.name = Modding Station
+tile.nhave.blockFrame.name = Machine Frame
+
+//---Tooltip---//
+tooltip.power.level = Power
+tooltip.power.usage = Usage
+tooltip.power.infinite = INFINITE
+tooltip.power.error = !!!ERROR!!!
+tooltip.details.shift1 = Hold
+tooltip.details.shift2 = Shift
+tooltip.details.shift3 = for Details

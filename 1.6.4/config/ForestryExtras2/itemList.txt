@@ -1,0 +1,42 @@
+Draconic Ingot
+Reinforced Ingot
+Witheria Ingot
+Alfium Ingot
+Ryu Ingot
+Coal Frame
+Iron Frame
+Gold Frame
+Diamond Frame
+Emerald Frame
+Reinforced Frame
+Witheria Frame
+Draconic Frame
+Mutation Frame
+Alfium Frame
+Alumite Frame
+Ardite Frame
+Bronze Frame
+Cobalt Frame
+Copper Frame
+Lead Frame
+Manyullyn Frame
+Silver Frame
+Steel Frame
+Tin Frame
+Pokefennium Frame
+Fairy Frame
+Thaumium Frame
+Dark Thaumium Frame
+Draconic Bee
+Reinforced Bee
+Thaumium Bee
+Dark Thaumium Bee
+Fairy Bee
+Pokefennium Bee
+Silverwood Bee
+Greatwood Bee
+Conductive Iron Bee
+Electrical Steel Bee
+Energetic Alloy Bee
+Vibrant Alloy Bee
+Pulsating Iron Bee

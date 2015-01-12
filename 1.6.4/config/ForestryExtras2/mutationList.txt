@@ -1,0 +1,13 @@
+Industrious + Noble = Reinforced|| Author: FE2
+Industrious + Reinforced = Draconic|| Author: FE2
+Silverwood + Greatwood = Thaumium|| Author: TC4
+Thaumium + Edenic = Dark Thaumium|| Author: TCE
+Reinforced + Edenic = Pokefennium|| Author: ExtraTiC
+Reinforced + Heroic = Fairy|| Author: ExtraTiC
+Industrious + Edenic = Greatwood|| Author: TC4
+Greatwood + Edenic = Silverwood|| Author: TC4
+Reinforced + Unweary = Conductive Iron|| Author: EIO
+Reinforced + Diligent = Electrical Steel|| Author: EIO
+Reinforced + Heroic = Energetic Alloy|| Author: EIO
+Draconic + Heroic = Vibrant Alloy|| Author: EIO
+Draconic + Energetic Alloy = Pulsating Iron|| Author: TC4
