@@ -200,10 +200,10 @@
              authors="SeNtiMeL, Icedfire"
              description="Advanced solar panels is new generation of using solar power. This is addon for IndustrialCraft 2." />
 
-        <mod name="Another One Bites the Dust" version="2.3.5"
-             url="packs/Monumental/files/1.7.10/AOBD-2.3.5.jar"
-             file="AOBD-2.3.5.jar"
-             md5="a9b169c967e168bc78979ccbfc5faec6"
+        <mod name="Another One Bites the Dust" version="2.3.6"
+             url="packs/Monumental/files/1.7.10/AOBD-2.3.6.jar"
+             file="AOBD-2.3.6.jar"
+             md5="8345927d64e1263c4706d922726d13bb"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2319703-aobd-ticic2te3mekanism-add-on-process-cobalt-ardite-and-aluminium-v110/"
@@ -381,10 +381,10 @@
              authors="Daniel Ratcliffe (Dan200), dmillerw"
              description="Plastic building blocks for Minecraft!" />
 
-        <mod name="Binnie's Mods" version="2.0-pre2"
-             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre2.jar"
-             file="binnie-mods-2.0-pre2.jar"
-             md5="4e0695c1f8260363d6522bfc7db521f6"
+        <mod name="Binnie's Mods" version="2.0-pre3"
+             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre3.jar"
+             file="binnie-mods-2.0-pre3.jar"
+             md5="5f1682fe0ecd38bb2a08e8d0c968761a"
              download="server"
              type="mods"
              depends="Forestry"
@@ -614,6 +614,16 @@
              authors="ChickenBones"
              description="EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)." />
 
+        <mod name="Ender Zoo" version="1.0.9.18"
+             url="packs/Monumental/files/1.7.10/EnderZoo-1.7.10-1.0.9.18.jar"
+             file="EnderZoo-1.7.10-1.0.9.18.jar"
+             md5="060564e736cfc0fbc034d74faf39d5d3"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/225247-ender-zoo"
+             authors="crazypants, tterrag"
+             description="Various new mobs from the developers of Ender IO." />
+
         <mod name="EnhancedPortals 3" version="3.0.9"
              url="packs/Monumental/files/1.7.10/EnhancedPortals_1.7.10-universal-3.0.9.jar"
              file="EnhancedPortals_1.7.10-universal-3.0.9.jar"
@@ -788,10 +798,10 @@
              authors="SeNtiMeL"
              description="Gravitation Suite gives you ability to fly. This is addon for IndustrialCraft 2." />
 
-        <mod name="GregTech-Addon" version="5.07.06"
-             url="packs/Monumental/files/1.7.10/gregtech_1.7.10-5.07.06.jar"
-             file="gregtech_1.7.10-5.07.06.jar"
-             md5="cffe3b9a85e7919916dfce8a4907379c"
+        <mod name="GregTech-Addon" version="5.07.07"
+             url="packs/Monumental/files/1.7.10/gregtech_1.7.10-5.07.07.jar"
+             file="gregtech_1.7.10-5.07.07.jar"
+             md5="342555c850df423c47a89a5402cddaff"
              download="server"
              type="mods"
              depends="IndustrialCraft 2"
@@ -856,10 +866,10 @@
              authors="FyberOptic"
              description="Adds hopper ducts, which are item transport blocks functionally similar to hoppers, but capable of sending items in any direction." />
 
-        <mod name="Hunger Overhaul" version="beta.4"
-             url="packs/Monumental/files/1.7.10/HungerOverhaul-1.7.10-beta.4.jar"
-             file="HungerOverhaul-1.7.10-beta.4.jar"
-             md5="df5b543b13bc2ed0c9f672ae93ba9fbe"
+        <mod name="Hunger Overhaul" version="beta.5"
+             url="packs/Monumental/files/1.7.10/HungerOverhaul-1.7.10-beta.5.jar"
+             file="HungerOverhaul-1.7.10-beta.5.jar"
+             md5="f44a225aaa7416a9f9defb36e868e084"
              download="server"
              type="mods"
              depends="AppleCore"
@@ -912,10 +922,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.658-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.658-experimental.jar"
-             file="industrialcraft-2-2.2.658-experimental.jar"
-             md5="8f782698322a31c396745d6acb7c052f"
+        <mod name="IndustrialCraft 2" version="2.2.660-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.660-experimental.jar"
+             file="industrialcraft-2-2.2.660-experimental.jar"
+             md5="65f1f317cfc60ae45edb9ef27acf0c6d"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1411,14 +1421,14 @@
              optional="yes"
              client="no" />
 
-        <!-- <mod name="Powersuit Addons" version="901"
-            url="packs/Monumental/files/1.7.10/powersuitaddons-1.7.10-901.jar"
-            file="powersuitaddons-1.7.10-901.jar"
-            md5="88529bf099964a2f6986a5e593785417"
-            download="server"
-            type="mods"
+        <!-- <mod name="Powersuit Addons" version="901" 
+            url="packs/Monumental/files/1.7.10/powersuitaddons-1.7.10-901.jar" 
+            file="powersuitaddons-1.7.10-901.jar" 
+            md5="88529bf099964a2f6986a5e593785417" 
+            download="server" 
+            type="mods" 
 			depends="MachineMuse's Modular Powersuits"
-            website="http://www.minecraftforum.net/topic/2287651-experimental164-modular-powersuits-addons-mpsa-requires-modular-powersuits/"
+            website="http://www.minecraftforum.net/topic/2287651-experimental164-modular-powersuits-addons-mpsa-requires-modular-powersuits/" 
             authors="eximius88, Andrew2448"
             description="An addon for MachineMuse's Modular Powersuits which adds new modules and components." /> -->
 
@@ -1737,10 +1747,10 @@
              authors="KingLemmingCoFH, Cynycal, ZeldoKavira"
              description="Expanding Minecraft Thermally! This mod is required for Thermal Expansion and gives modpack makers a way to add resources to their worlds without needing to install all of the tech and other goodies that come with TE." />
 
-        <mod name="TiC Tooltips" version="1.2.0"
-             url="packs/Monumental/files/1.7.10/TiCTooltips-mc1.7.10-1.2.0.jar"
-             file="TiCTooltips-mc1.7.10-1.2.0.jar"
-             md5="25a0af47c472f73192ecd5df563c6546"
+        <mod name="TiC Tooltips" version="1.2.1"
+             url="packs/Monumental/files/1.7.10/TiCTooltips-mc1.7.10-1.2.1.jar"
+             file="TiCTooltips-mc1.7.10-1.2.1.jar"
+             md5="9e94137e43d17af177276cb813579970"
              download="server"
              type="mods"
              depends="Tinkers' Construct"
