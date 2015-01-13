@@ -1,0 +1,162 @@
+Advanced Machines
+	Recipes use Ore Dictionary Iron Plate
+
+Applied Energistics
+	Certus Quartz and Nether Quartz tools disabled
+	Grinder ore doubling reduced from 90% to 50%
+	Meteorite spawn chance reduced from 0.3 to 0.2
+
+ArmorStatusHUD
+	Changed position to middle-left of screen
+
+Ars Magica 2 
+	Moonstone Metoers don't destroy terrain
+
+Backpack
+	Big Backpacks can only be crafted by upgrading from a Small Backpack
+
+Biomes O' Plenty
+	Biome size increased from 4 to 6 (equivalent to "Large Biomes" world type)
+
+Blood Magic
+	Mundane Lengthening Catalyst dungeon loot chance reduced from 20 to 15
+	Mundane Power Catalyst dungeon loot chance reduced from 20 to 15
+	Standard Binding Agent dungeon loot chance reduced from 30 to 20
+
+Buildcraft
+	Item lifespan increased from 1200 to 6000 ticks.
+
+Chisel 2
+	Particle tick rate increased from 1 to 2
+
+CoFH Core
+	FlatBedrock enabled
+	Wither Skeletons drop heads enabled
+
+Deadly World
+	Disable "mine" generation
+	Boss frequency reduced from 0.2 to 0.1
+	Brutal Spawner frequency reduced from 0.1 to 0.05
+	Fire Trap frequency reduced from 0.35 to 0.1
+	Potion Trap frequency reduced from 0.2 to 0.1
+	Silverfish Nest frequency reduced from 0.15 to 0.1
+	Spawner frequency reduced from 0.2 to 0.1
+	Spawner Trap frequency reduced from 0.15 to 0.1
+	Tower frequency reduced from 0.35 to 0.2
+	Will be enabled whether the world was created with the mod installed or not
+	Disabled chance of carpet covering traps
+	Traps generating with a cover block over them reduced from 0.8 to 0.4
+
+Ender IO
+	Glider cost increased from 10 to 30 lvls
+	Goggles of Revealing cost increased from 10 to 30 lvls
+	Jump 2 cost increased from 15 to 20 lvls
+	Jump 3 cost increased from 20 to 30 lvls
+	Night Vision cost increased from 10 to 30 lvls
+	Dark Steel RF cost per damage point increased from 750 to 1000
+	Solar I cost increased from 15 to 20 lvls
+	Solar I RF/s reduced from 10 to 5
+	Solar II RF/s reduced from 40 to 20
+	Sound Locator cost increased from 10 to 15
+	Speed 2 cost increased from 15 to 20 lvls
+	Speed 3 cost increased from 20 to 30 lvls
+	Swim cost increased from 10 to 20
+	Dark Steel Sword power use per hit increased from 750 to 1000
+	Power 2 cost increased from 15 to 20 lvls
+	Power 3 cost increased from 20 to 30 lvls
+	Empowered cost increased from 10 to 15 lvls
+	Removed Dark Steel Boots from loot tables
+	Removed The Ender from loot tables
+	Removed Travel Staff from loot tables
+	Reinforced Obsidian uses Dark Steel blocks instead of ingots
+	Hard recipes enabled
+	Machine Chassis uses Steel ingots instead of Iron
+
+Ender Storage
+	Disabled vanilla Ender Chest crafting
+
+Factorization
+	Silver generation disabled
+
+Forestry
+	Disabled Clockwork Engine (in NORMAL)
+	Difficulty set to NORMAL
+	Forestry dungeon loot is rarer
+	Copper generation disabled
+	Tin generation disabled
+
+Galacticraft
+	Oxygen meter moved to top-left
+	Copper generation disabled (in Overworld)
+	Tin generation disabled (in Overworld)
+	Aluminium generation disabled (in Overworld)
+
+GregTech
+	HarderMobSpawners set to false
+	Lightning doesn't cause explosions
+	Rain doesn't cause machines to explode
+
+Headcrumbs
+	Added my head (DrummingFish), my fiance's (TheGeekyGirl), and a couple of my friends (Rionque, alizdar24)
+	Disabled celebrity mobs
+
+Industrialcraft 2
+	Copper generation disabled
+	Tin generation disabled
+	Lead generation disabled
+	Disabled vanilla Ender Chest
+
+MineChem
+	Disabled ore generation
+
+MineFactory Reloaded
+	Disabled guns
+
+Morph
+	Disabled flight ability
+	Morphs are sorted alphabetically with attempts at group sorting
+	On death, the morph being currently used is lost
+
+MrCrayfish's Furniture Mod
+	Disabled all Dishwasher tool repair
+	Disabled all Washing Machine armour repair
+	Disabled Skeleton Skull -> 8 Emeralds in MineBay
+	Disabled Saddle -> 4 Emeralds in MineBay
+	Disabled Horse Spawn Egg -> 8 Emeralds in MineBay
+	Disabled Diamond Horse Armour -> 8 Diamonds in MineBay
+	Disabled welcome message
+
+NEI Addons
+	Added forestry combs to NEI search
+
+NEI Integration
+	Show burn time of furnace fuel
+	Burn time shown by holding shift
+
+Nether Ores
+	Chain explosion probability reduced from 75 to 50
+	Other mobs can't anger Pigmen
+
+OpenBlocks
+	Added Paint Brush to dungeon loot
+	Added Stencils to dungeon loot
+	Added Donation Station to dungeon loot
+	Reduced Sponge block range from 3 to 2
+	Sponge on a Stick use count reduced from 256 to 128
+
+QuarryPlus
+	Increased recipe difficulty from 2 to 5
+
+Thaumcraft
+	Added Thaumonomicon Cheat Sheet
+
+Thaumic Tinkerer
+	Disabled Tome of Research Sharing
+
+Thermal Expansion
+	All machines allow recipe overwrites
+	"breaker" uses Diamond Pickaxe
+	Pulveriser uses Diamonds instead of Flint
+
+WAILA Harvestability
+	All extra info viewed on holding shift
