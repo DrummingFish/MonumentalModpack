@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>v2.0.0dev</version>
+        <version>BETA-v2.0.0</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
