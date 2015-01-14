@@ -106,6 +106,9 @@ Industrialcraft 2
 	Lead generation disabled
 	Disabled vanilla Ender Chest
 
+JABBA
+	Structure upgrades now use Iron Fences instead of wooden ones
+
 MineChem
 	Disabled ore generation
 
