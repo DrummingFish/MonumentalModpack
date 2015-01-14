@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.0.0</version>
+        <version>BETA-v2.0.1</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -437,10 +437,10 @@
              authors="Mineshopper"
              description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns." />
 
-        <mod name="ChickenChunks" version="1.3.4.16"
-             url="packs/Monumental/files/1.7.10/ChickenChunks-1.7.10-1.3.4.16-universal.jar"
-             file="ChickenChunks-1.7.10-1.3.4.16-universal.jar"
-             md5="92324dbf72da14b12a9a637908a09d0d"
+        <mod name="ChickenChunks" version="1.3.4.17"
+             url="packs/Monumental/files/1.7.10/ChickenChunks-1.7.10-1.3.4.17-universal.jar"
+             file="ChickenChunks-1.7.10-1.3.4.17-universal.jar"
+             md5="512572cb9f60468ac9d6ec51b73e44ee"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -470,10 +470,10 @@
              authors="Choonster"
              description="This is a small compatibility mod that adds Chisel's blocks as BuildCraft Facades." />
 
-        <mod name="CodeChickenCore" version="1.0.4.29"
-             url="packs/Monumental/files/1.7.10/CodeChickenCore-1.7.10-1.0.4.29-universal.jar"
-             file="CodeChickenCore-1.7.10-1.0.4.29-universal.jar"
-             md5="23978d3c16f19d0d2808c4b451d78f87"
+        <mod name="CodeChickenCore" version="1.0.4.35"
+             url="packs/Monumental/files/1.7.10/CodeChickenCore-1.7.10-1.0.4.35-universal.jar"
+             file="CodeChickenCore-1.7.10-1.0.4.35-universal.jar"
+             md5="0f82aedf717fe0f580b4fd3a6514a6ff"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/909223-"
@@ -624,10 +624,10 @@
              authors="crazypants, tterrag"
              description="Various new mobs from the developers of Ender IO." />
 
-        <mod name="EnhancedPortals 3" version="3.0.9"
-             url="packs/Monumental/files/1.7.10/EnhancedPortals_1.7.10-universal-3.0.9.jar"
-             file="EnhancedPortals_1.7.10-universal-3.0.9.jar"
-             md5="dcf2b98ad0c1b12957cd11290f477552"
+        <mod name="EnhancedPortals 3" version="3.0.10"
+             url="packs/Monumental/files/1.7.10/EnhancedPortals_1.7.10-universal-3.0.10.jar"
+             file="EnhancedPortals_1.7.10-universal-3.0.10.jar"
+             md5="fbedbfc8cfe80a48092edf5e8d8fb773"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2178842-enhanced-portals-3"
@@ -635,10 +635,10 @@
              authors="KzariusRex"
              description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it's colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 
-        <mod name="Equivalent Exchange 3" version="0.2.372"
-             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.372.jar"
-             file="EquivalentExchange3-1.7.10-0.2.372.jar"
-             md5="d8e5e120076ae6ad5c973afb4ef09bb1"
+        <mod name="Equivalent Exchange 3" version="0.2.374"
+             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.374.jar"
+             file="EquivalentExchange3-1.7.10-0.2.374.jar"
+             md5="2217f1b8f85fd19098b83842d609fd87"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1h/"
@@ -657,10 +657,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells" version="2.2.25b45"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.25b45.jar"
-             file="ExtraCells-1.7.10-2.2.25b45.jar"
-             md5="02b29a267b8eb0cee12657b90eb43896"
+        <mod name="ExtraCells 2" version="2.2.32b55"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.32b55.jar"
+             file="ExtraCells-1.7.10-2.2.32b55.jar"
+             md5="6a8c92892cc3eacfe6464fe4d996cfaa"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -741,10 +741,10 @@
              authors="Kihira"
              description="This mod provides various classes, methods and template code to assist other mods." />
 
-        <mod name="Galacticraft Core" version="3.0.6.232"
-             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.6.232.jar"
-             file="GalacticraftCore-1.7-3.0.6.232.jar"
-             md5="b944d7fb08cdfb5d89611af8d5cba312"
+        <mod name="Galacticraft Core" version="3.0.7.252"
+             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.7.252.jar"
+             file="GalacticraftCore-1.7-3.0.7.252.jar"
+             md5="196e3362973a89e37d1933db9f76328d"
              download="server"
              type="mods"
              depends="Micdoodle Core"
@@ -753,10 +753,10 @@
              authors="Micdoodle8, radfast"
              description="An advanced space travel mod." />
 
-        <mod name="Galacticraft Planets" version="3.0.6.232"
-             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.6.232.jar"
-             file="Galacticraft-Planets-1.7-3.0.6.232.jar"
-             md5="517079fd50f39d8ee7c6ff6bc29fa27e"
+        <mod name="Galacticraft Planets" version="3.0.7.252"
+             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.7.252.jar"
+             file="Galacticraft-Planets-1.7-3.0.7.252.jar"
+             md5="60e950e25e31e571e767d163c08d6b10"
              download="server"
              type="mods"
              depends="Galacticraft Core"
@@ -1064,16 +1064,26 @@
              authors="mDiyo, boni, progwml6"
              description="This contains shared code for Forge mods and is used by the Slime Knights." />
 
-        <mod name="Micdoodle Core" version="3.0.6.232"
-             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.6.232.jar"
-             file="MicdoodleCore-1.7-3.0.6.232.jar"
-             md5="b52139286c2a81f59184393a74a24cf1"
+        <mod name="Micdoodle Core" version="3.0.7.252"
+             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.7.252.jar"
+             file="MicdoodleCore-1.7-3.0.7.252.jar"
+             md5="1662313202d2d6c881338cddc84fcf5e"
              download="server"
              type="mods"
              website="http://www.micdoodle8.com/"
              donation="http://www.patreon.com/micdoodle8"
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
+
+        <mod name="Mine Trading Cards" version="1.4B"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.4B.jar"
+             file="Mine Trading Cards-1.4B.jar"
+             md5="9e3d8f766a37c7fbdab211081d509cab"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
+             authors="Tradeworld"
+             description="Adds trading cards." />
 
         <mod name="Minechem" version="5.0.5.358"
              url="packs/Monumental/files/1.7.10/Minechem-1.7.10-5.0.5.358.jar"
@@ -1164,10 +1174,10 @@
              authors="joshiejack"
              description="ModTweaker is an addon for MineTweaker." />
 
-        <mod name="Modular Force Field System" version="4.1.0.44"
-             url="packs/Monumental/files/1.7.10/mffs-4.1.0.44-core.jar"
-             file="mffs-4.1.0.44-core.jar"
-             md5="5ac571d481065fe61d2a41a83ab9648e"
+        <mod name="Modular Force Field System" version="4.1.1.67"
+             url="packs/Monumental/files/1.7.10/mffs-4.1.1.67-core.jar"
+             file="mffs-4.1.1.67-core.jar"
+             md5="e1fd8ba192712c67ad4f9f735a95d544"
              download="server"
              type="mods"
              depends="Resonant Engine, Universal Electricity"
@@ -1551,10 +1561,10 @@
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Redstone Arsenal adds several new items used to create powerful tools." />
 
-        <mod name="Resonant Engine" version="3.0.0.297"
-             url="packs/Monumental/files/1.7.10/resonant-engine-3.0.0.297-core.jar"
-             file="resonant-engine-3.0.0.297-core.jar"
-             md5="58934bae626406d7870dde83ce6d53ec"
+        <mod name="Resonant Engine" version="3.3.0.411"
+             url="packs/Monumental/files/1.7.10/resonant-engine-3.3.0.411-core.jar"
+             file="resonant-engine-3.3.0.411-core.jar"
+             md5="d420ba42fcdf5cf611762b5ca87d9a38"
              download="server"
              type="mods"
              website="http://universalelectricity.com/resonant-engine/"
@@ -1666,10 +1676,10 @@
              description="Tails adds in a bunch of different tails, ears and wings including various subtypes all of which you can colour to your liking!"
              optional="yes" />
 
-        <mod name="Thaumcraft" version="4.2.3.0"
-             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.0.jar"
-             file="Thaumcraft-1.7.10-4.2.3.0.jar"
-             md5="68de919504b8e20555bb6c9e75963abb"
+        <mod name="Thaumcraft" version="4.2.3.2"
+             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.2.jar"
+             file="Thaumcraft-1.7.10-4.2.3.2.jar"
+             md5="ad41daad15e0755367e6a8e5eb6d379e"
              download="server"
              type="mods"
              depends="Baubles"
@@ -1875,10 +1885,10 @@
              authors="ProfMobius"
              description="Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods." />
 
-        <mod name="WAILA Harvestability" version="1.1.0"
-             url="packs/Monumental/files/1.7.10/WailaHarvestability-mc1.7.x-1.1.0.jar"
-             file="WailaHarvestability-mc1.7.x-1.1.0.jar"
-             md5="46e5e97d5763402239abb8eb1b62e7f2"
+        <mod name="WAILA Harvestability" version="1.1.1"
+             url="packs/Monumental/files/1.7.10/WailaHarvestability-mc1.7.x-1.1.1.jar"
+             file="WailaHarvestability-mc1.7.x-1.1.1.jar"
+             md5="8274d4496728cbff0b40b0f8e2ca4296"
              download="server"
              type="mods"
              depends="WAILA"
@@ -1889,10 +1899,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Witchery" version="0.21.2"
-             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.21.2.jar"
-             file="witchery-1.7.10-0.21.2.jar"
-             md5="f89c5fe437d398b78d7784d1210d9a8a"
+        <mod name="Witchery" version="0.22.0"
+             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.22.0.jar"
+             file="witchery-1.7.10-0.22.0.jar"
+             md5="1c7ce491cb97912eec377175d38c500a"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1992544-"
@@ -1921,25 +1931,15 @@
              authors="thehippomaster21"
              description="A supporting mod that allows modders to make animations more easily." />
 
-        <mod name="Fastcraft" version="1.12"
-             url="http://files.player.to/fastcraft-1.12.jar"
-             file="fastcraft-1.12.jar"
-             md5="fa45361222c8322c7e5b09117d5946ec"
+        <mod name="Fastcraft" version="1.13"
+             url="http://files.player.to/fastcraft-1.13.jar"
+             file="fastcraft-1.13.jar"
+             md5="976fc2bba5a8da865c680c21c523e9c2"
              download="browser"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820"
              authors="Player"
              description="FastCraft is a small mod which improves the client and server performance significantly without any game play changes." />
-
-        <mod name="Mine Trading Cards" version="1.2B"
-             url="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards/files/2223183/download"
-             file="Mine Trading Cards-1.7.10-1.2B.jar"
-             md5="6b68e2ea0ff303af62a69cee692d8fe1"
-             download="browser"
-             type="mods"
-             website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
-             authors="Tradeworld"
-             description="Adds trading cards." />
 
         <mod name="Mystcraft" version="0.11.0.00"
              url="http://binarymage.com/mystcraft/publish/mystcraft-1.7.10-0.11.0.00.jar"
