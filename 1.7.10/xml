@@ -1444,8 +1444,7 @@
              website="http://minecraft.curseforge.com/mc-mods/222967-ping"
              authors="dmillerw"
              description="Inspired by Portal 2, this mod brings the Ping tool into Minecraft."
-             optional="yes"
-             client="no" />
+             optional="yes" />
 
         <!-- <mod name="Powersuit Addons" version="901" 
             url="packs/Monumental/files/1.7.10/powersuitaddons-1.7.10-901.jar" 
