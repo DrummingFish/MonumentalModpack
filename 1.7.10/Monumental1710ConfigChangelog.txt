@@ -71,6 +71,7 @@ Ender IO
 	Reinforced Obsidian uses Dark Steel blocks instead of ingots
 	Hard recipes enabled
 	Machine Chassis uses Steel ingots instead of Iron
+	Skeletons and Wither Skeletons are not properly seperated (experimental feature that for some reason was on by default)
 
 Ender Storage
 	Disabled vanilla Ender Chest crafting

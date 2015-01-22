@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.0.1b</version>
+        <version>BETA-v2.0.2</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -396,10 +396,10 @@
             authors="Daniel Ratcliffe (Dan200), dmillerw" 
             description="Plastic building blocks for Minecraft!" />-->
 
-        <mod name="Binnie's Mods" version="2.0-pre3"
-             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre3.jar"
-             file="binnie-mods-2.0-pre3.jar"
-             md5="5f1682fe0ecd38bb2a08e8d0c968761a"
+        <mod name="Binnie's Mods" version="2.0-pre5"
+             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre5.jar"
+             file="binnie-mods-2.0-pre5.jar"
+             md5="2c3db79abf37ba0eb1c971524fcadab6"
              download="server"
              type="mods"
              depends="Forestry"
@@ -408,10 +408,10 @@
              authors="Binnie"
              description="Binnie's Mods is an expansion for Forestry which consists of four main mods; Extra Bees, Extra Trees, Botany and Genetics." />
 
-        <mod name="Biomes O' Plenty" version="2.1.0.1036"
-             url="packs/Monumental/files/1.7.10/BiomesOPlenty-1.7.10-2.1.0.1036-universal.jar"
-             file="BiomesOPlenty-1.7.10-2.1.0.1036-universal.jar"
-             md5="ea575c4af817eb9ff2153bda00f70f86"
+        <mod name="Biomes O' Plenty" version="2.1.0.1057"
+             url="packs/Monumental/files/1.7.10/BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar"
+             file="BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar"
+             md5="79f246f4be944953cb04afa0a90b39c6"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1495041-"
@@ -419,10 +419,10 @@
              authors="Forstride, Adubbz, Amnet, ted80"
              description="Adds many new, unique biomes!" />
 
-        <mod name="Blood Magic: Alchemical Wizardry" version="1.3.0a-1"
-             url="packs/Monumental/files/1.7.10/BloodMagic-1.7.10-1.3.0a-1.jar"
-             file="BloodMagic-1.7.10-1.3.0a-1.jar"
-             md5="cd4ec66972d8f4821bd907eaf8a51a7d"
+        <mod name="Blood Magic: Alchemical Wizardry" version="1.3.0b-3"
+             url="packs/Monumental/files/1.7.10/BloodMagic-1.7.10-1.3.0b-3.jar"
+             file="BloodMagic-1.7.10-1.3.0b-3.jar"
+             md5="bd8f686cb9c0a4c09ec107d57ca6a41c"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1899223-"
@@ -464,20 +464,20 @@
              authors="ChickenBones"
              description="Advanced chunkloading management." />
 
-        <mod name="Chisel 2" version="2.2.1"
-             url="packs/Monumental/files/1.7.10/Chisel 2-2.2.1.jar"
-             file="Chisel 2-2.2.1.jar"
-             md5="8427534f4b51e9c9c5798b02bb54acff"
+        <mod name="Chisel 2" version="2.3.1"
+             url="packs/Monumental/files/1.7.10/Chisel2-2.3.1.jar"
+             file="Chisel2-2.3.1.jar"
+             md5="0ad166a75bcf6c344b44270fcd006f68"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-chisel"
              authors="AUTOMATIC_MAIDEN, Asie, pokefenn, TheCricket26"
              description="Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be carved and crafted into many various building materials." />
 
-        <mod name="Chisel Facades" version="2.7-cricket"
-             url="packs/Monumental/files/1.7.10/ChiselFacades-1.7.10-2.7-cricket.jar"
-             file="ChiselFacades-1.7.10-2.7-cricket.jar"
-             md5="e5751e54fc2c6b92798fc7c6980f5599"
+        <mod name="Chisel Facades" version="2.8-cricket"
+             url="packs/Monumental/files/1.7.10/ChiselFacades-1.7.10-2.8-cricket.jar"
+             file="ChiselFacades-1.7.10-2.8-cricket.jar"
+             md5="1e067b70acca2bf149b72664cd98665a"
              download="server"
              type="mods"
              depends="Chisel 2, BuildCraft"
@@ -607,10 +607,10 @@
              authors="Vazkii"
              description="As the title says, Emotes lets you perform... emotes." />
 
-        <mod name="Ender IO" version="2.2.6.317"
-             url="packs/Monumental/files/1.7.10/EnderIO-1.7.10-2.2.6.317.jar"
-             file="EnderIO-1.7.10-2.2.6.317.jar"
-             md5="cd9cdec2fa70fbfb322ece46db70225c"
+        <mod name="Ender IO" version="2.2.7.325"
+             url="packs/Monumental/files/1.7.10/EnderIO-1.7.10-2.2.7.325.jar"
+             file="EnderIO-1.7.10-2.2.7.325.jar"
+             md5="083ee60f6c18d4e68ab8b71fec449217"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1937619-"
@@ -672,10 +672,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells 2" version="2.2.32b55"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.32b55.jar"
-             file="ExtraCells-1.7.10-2.2.32b55.jar"
-             md5="6a8c92892cc3eacfe6464fe4d996cfaa"
+        <mod name="ExtraCells 2" version="2.2.42b68"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.42b68.jar"
+             file="ExtraCells-1.7.10-2.2.42b68.jar"
+             md5="3033c2e7af7d48060eba50f4dd7c55d5"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -756,10 +756,10 @@
              authors="Kihira"
              description="This mod provides various classes, methods and template code to assist other mods." />
 
-        <mod name="Galacticraft Core" version="3.0.7.252"
-             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.7.252.jar"
-             file="GalacticraftCore-1.7-3.0.7.252.jar"
-             md5="196e3362973a89e37d1933db9f76328d"
+        <mod name="Galacticraft Core" version="3.0.7.256"
+             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.7.256.jar"
+             file="GalacticraftCore-1.7-3.0.7.256.jar"
+             md5="b7b66ad0ca35a49ac46e8b1609a72878"
              download="server"
              type="mods"
              depends="Micdoodle Core"
@@ -768,10 +768,10 @@
              authors="Micdoodle8, radfast"
              description="An advanced space travel mod." />
 
-        <mod name="Galacticraft Planets" version="3.0.7.252"
-             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.7.252.jar"
-             file="Galacticraft-Planets-1.7-3.0.7.252.jar"
-             md5="60e950e25e31e571e767d163c08d6b10"
+        <mod name="Galacticraft Planets" version="3.0.7.256"
+             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.7.256.jar"
+             file="Galacticraft-Planets-1.7-3.0.7.256.jar"
+             md5="b12536a64a9dd74056b2645102bb9a3e"
              download="server"
              type="mods"
              depends="Galacticraft Core"
@@ -780,20 +780,20 @@
              authors="Micdoodle8, radfast"
              description="Addon for Galacticraft." />
 
-        <mod name="Garden Stuff" version="1.2.1"
-             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.1.jar"
-             file="GardenStuff-1.7.10-1.2.1.jar"
-             md5="06df2aa91f0a32ce49dfc52d13bee282"
+        <mod name="Garden Stuff" version="1.2.2"
+             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.2.jar"
+             file="GardenStuff-1.7.10-1.2.2.jar"
+             md5="aaff533b5b0b9f4ab0bb693be6041203"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14"
              authors="jaquadro"
              description="This is a collection of garden-related mods originally based on Modular Flower Pots." />
 
-        <mod name="Gendustry" version="1.4.3.47"
-             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.3.47.jar"
-             file="gendustry-mc1710-1.4.3.47.jar"
-             md5="e21dee0bf150162a2080dc4e08a5126c"
+        <mod name="Gendustry" version="1.4.3.fix2"
+             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.3.fix2.jar"
+             file="gendustry-mc1710-1.4.3.fix2.jar"
+             md5="5fb1625d7220bfbd0b2cee26ca866ff8"
              download="server"
              type="mods"
              depends="BdLib, Forestry"
@@ -825,10 +825,10 @@
              authors="Gregorius Techneticies"
              description="This addon adds the awesome technology of GregTech-Intergalactical to your World! Fusionreactors, Lightningrods and many other technologies and convenient recipes are added by this addon, if you let them enabled in the allmighty Config, of course." />
 
-        <mod name="Hardcore Ender Expansion" version="1.6.7"
-             url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.6.7.jar"
-             file="HardcoreEnderExpansion  MC-1.7.10  v1.6.7.jar"
-             md5="c36d7de2a62c265aade5f61e2678ee0e"
+        <mod name="Hardcore Ender Expansion" version="1.7"
+             url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
+             file="HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
+             md5="a4c883d9376aac8ab830e917023e6ab3"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1066990-hardcore-ender-expansion-v133-former-hardcore-enderdragon-mod-43000-dls/"
@@ -916,10 +916,10 @@
              authors="iChun"
              description="Shared library mod required by several of iChun's Mods." />
 
-        <mod name="Immibis Core" version="59.0.5"
-             url="packs/Monumental/files/1.7.10/immibis-core-59.0.5.jar"
-             file="immibis-core-59.0.5.jar"
-             md5="0d3316cb17275a8774de19da9eb59e0c"
+        <mod name="Immibis Core" version="59.0.7"
+             url="packs/Monumental/files/1.7.10/immibis-core-59.0.7.jar"
+             file="immibis-core-59.0.7.jar"
+             md5="bed0b1648645049613a8d2a420097011"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1001131-"
@@ -1079,10 +1079,10 @@
              authors="mDiyo, boni, progwml6"
              description="This contains shared code for Forge mods and is used by the Slime Knights." />
 
-        <mod name="Micdoodle Core" version="3.0.7.252"
-             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.7.252.jar"
-             file="MicdoodleCore-1.7-3.0.7.252.jar"
-             md5="1662313202d2d6c881338cddc84fcf5e"
+        <mod name="Micdoodle Core" version="3.0.7.256"
+             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.7.256.jar"
+             file="MicdoodleCore-1.7-3.0.7.256.jar"
+             md5="1df37848ec9436d07e17af973b594e24"
              download="server"
              type="mods"
              website="http://www.micdoodle8.com/"
@@ -1090,10 +1090,10 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.4B"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.4B.jar"
-             file="Mine Trading Cards-1.4B.jar"
-             md5="9e3d8f766a37c7fbdab211081d509cab"
+        <mod name="Mine Trading Cards" version="1.5B3"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.5B3.jar"
+             file="Mine Trading Cards-1.5B3.jar"
+             md5="665dada32dc1a8b671d180794606fccb"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
@@ -1248,10 +1248,10 @@
              authors="BDew"
              description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
 
-        <mod name="NEI Integration" version="1.0.4"
-             url="packs/Monumental/files/1.7.10/NEIIntegration-MC1.7.10-1.0.4.jar"
-             file="NEIIntegration-MC1.7.10-1.0.4.jar"
-             md5="d513ba7b40441499a976ec5dc24c7564"
+        <mod name="NEI Integration" version="1.0.5"
+             url="packs/Monumental/files/1.7.10/NEIIntegration-MC1.7.10-1.0.5.jar"
+             file="NEIIntegration-MC1.7.10-1.0.5.jar"
+             md5="551ef78a508d9a413a347d6d995402a4"
              download="server"
              type="mods"
              depends="NotEnoughItems"
@@ -1307,10 +1307,10 @@
              authors="ChickenBones"
              description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
 
-        <mod name="Nuclear Control" version="2.0.8c"
-             url="packs/Monumental/files/1.7.10/IC2NuclearControl-2.0.8c.jar"
-             file="IC2NuclearControl-2.0.8c.jar"
-             md5="6306c672d7c8b1450657a97b999668bc"
+        <mod name="Nuclear Control" version="2.1.2a"
+             url="packs/Monumental/files/1.7.10/IC2NuclearControl-2.1.2a.jar"
+             file="IC2NuclearControl-2.1.2a.jar"
+             md5="b91afc868bae1e37953418ec4424ea36"
              download="server"
              type="mods"
              depends="IndustrialCraft 2"
@@ -1691,10 +1691,10 @@
              description="Tails adds in a bunch of different tails, ears and wings including various subtypes all of which you can colour to your liking!"
              optional="yes" />
 
-        <mod name="Thaumcraft" version="4.2.3.2"
-             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.2.jar"
-             file="Thaumcraft-1.7.10-4.2.3.2.jar"
-             md5="ad41daad15e0755367e6a8e5eb6d379e"
+        <mod name="Thaumcraft" version="4.2.3.3"
+             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.3.jar"
+             file="Thaumcraft-1.7.10-4.2.3.3.jar"
+             md5="68b2e4e4afd0c25f4124e76a7118940d"
              download="server"
              type="mods"
              depends="Baubles"
@@ -1844,20 +1844,20 @@
              authors="ChickenBones"
              description="Translocates stuff!" />
 
-        <mod name="Traveller's Gear" version="1.12.3"
-             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.12.3.jar"
-             file="TravellersGear-1.7.10-1.12.3.jar"
-             md5="12351c3065702bca7f520c907a68e9a1"
+        <mod name="Traveller's Gear" version="1.14.3"
+             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.14.3.jar"
+             file="TravellersGear-1.7.10-1.14.3.jar"
+             md5="e42113c782ec32b45285feaba37b423c"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224440-travellers-gear"
              authors="BluSunrize"
              description="Incorporates other mods' extended inventories as well as its own into one single GUI." />
 
-        <mod name="Tubestuff" version="59.0.1"
-             url="packs/Monumental/files/1.7.10/tubestuff-59.0.1.jar"
-             file="tubestuff-59.0.1.jar"
-             md5="daac1c8e5d6ee1eff699d97d7a29973e"
+        <mod name="Tubestuff" version="59.0.3"
+             url="packs/Monumental/files/1.7.10/tubestuff-59.0.3.jar"
+             file="tubestuff-59.0.3.jar"
+             md5="39bc325c04502131e328373e90ad7e0b"
              download="server"
              type="mods"
              depends="Immibis Core"
@@ -1946,10 +1946,10 @@
              authors="thehippomaster21"
              description="A supporting mod that allows modders to make animations more easily." />
 
-        <mod name="Fastcraft" version="1.13"
-             url="http://files.player.to/fastcraft-1.13.jar"
-             file="fastcraft-1.13.jar"
-             md5="976fc2bba5a8da865c680c21c523e9c2"
+        <mod name="Fastcraft" version="1.16"
+             url="http://files.player.to/fastcraft-1.16.jar"
+             file="fastcraft-1.16.jar"
+             md5="bff2f149879139d7b25ea4ec4b16866b"
              download="browser"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820"
