@@ -1098,7 +1098,8 @@
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
              authors="Tradeworld"
-             description="Adds trading cards." />
+             description="Adds trading cards."
+             optional="yes" />
 
         <mod name="Minechem" version="5.0.5.358"
              url="packs/Monumental/files/1.7.10/Minechem-1.7.10-5.0.5.358.jar"
