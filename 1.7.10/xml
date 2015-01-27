@@ -245,10 +245,10 @@
              donation="http://www.patreon.com/squeek502"
              description="An API for modifying the food and hunger mechanics of Minecraft." />
 
-        <mod name="Applied Energistics" version="rv2-beta-7"
-             url="packs/Monumental/files/1.7.10/appliedenergistics2-rv2-beta-7.jar"
-             file="appliedenergistics2-rv2-beta-7.jar"
-             md5="672c176ff277ee04fc1ae34df22fdadc"
+        <mod name="Applied Energistics" version="rv2-beta-8"
+             url="packs/Monumental/files/1.7.10/appliedenergistics2-rv2-beta-8.jar"
+             file="appliedenergistics2-rv2-beta-8.jar"
+             md5="0208d8e92085e0cec7e43ac8665733a2"
              download="server"
              type="mods"
              website="http://ae-mod.info/"
@@ -430,21 +430,31 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.2.6"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.2.6.jar"
-             file="buildcraft-6.2.6.jar"
-             md5="dc778405da56701594ff21ff2551c650"
+        <mod name="BuildCraft" version="6.3.3"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.3.3.jar"
+             file="buildcraft-6.3.3.jar"
+             md5="920bb96d21068841b9fc6834e3b022eb"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PYNUBUQE3K5XE"
-             authors="SpaceToad, BuildCraft Team"
+             authors="asie, SpaceToad, BuildCraft Team"
              description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
-        <mod name="Carpenter's Blocks" version="3.3.4.2"
-             url="packs/Monumental/files/1.7.10/Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar"
-             file="Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar"
-             md5="aabe072b29796d74998ee9ab472b67a5"
+        <mod name="BuildCraft Compat" version="6.3.1"
+             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.3.1.jar"
+             file="buildcraft-compat-6.3.1.jar"
+             md5="c01b9f29242e02b9a8e2d40d644f80a3"
+             download="server"
+             type="mods"
+             website="http://www.mod-buildcraft.com/"
+             authors="asie, BuildCraft Team"
+             description="Compatibility add-on for BuildCraft." />
+
+        <mod name="Carpenter's Blocks" version="3.3.4.4"
+             url="packs/Monumental/files/1.7.10/Carpenters Blocks v3.3.4.4 - MC 1.7.10.jar"
+             file="Carpenters Blocks v3.3.4.4 - MC 1.7.10.jar"
+             md5="ef46b234e864c9921bda74b68d5d2512"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1790919-"
@@ -464,20 +474,20 @@
              authors="ChickenBones"
              description="Advanced chunkloading management." />
 
-        <mod name="Chisel 2" version="2.3.1"
-             url="packs/Monumental/files/1.7.10/Chisel2-2.3.1.jar"
-             file="Chisel2-2.3.1.jar"
-             md5="0ad166a75bcf6c344b44270fcd006f68"
+        <mod name="Chisel 2" version="2.3.5.31"
+             url="packs/Monumental/files/1.7.10/Chisel2-2.3.5.31.jar"
+             file="Chisel2-2.3.5.31.jar"
+             md5="16f831ef7ee1493f29b3a17372b94177"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-chisel"
              authors="AUTOMATIC_MAIDEN, Asie, pokefenn, TheCricket26"
              description="Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be carved and crafted into many various building materials." />
 
-        <mod name="Chisel Facades" version="2.8-cricket"
-             url="packs/Monumental/files/1.7.10/ChiselFacades-1.7.10-2.8-cricket.jar"
-             file="ChiselFacades-1.7.10-2.8-cricket.jar"
-             md5="1e067b70acca2bf149b72664cd98665a"
+        <mod name="Chisel Facades" version="2.10-cricket"
+             url="packs/Monumental/files/1.7.10/ChiselFacades-1.7.10-2.10-cricket.jar"
+             file="ChiselFacades-1.7.10-2.10-cricket.jar"
+             md5="c74740b02489dd4c4c655747d8a5092d"
              download="server"
              type="mods"
              depends="Chisel 2, BuildCraft"
@@ -672,10 +682,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells 2" version="2.2.42b68"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.42b68.jar"
-             file="ExtraCells-1.7.10-2.2.42b68.jar"
-             md5="3033c2e7af7d48060eba50f4dd7c55d5"
+        <mod name="ExtraCells 2" version="2.2.47b73"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.47b73.jar"
+             file="ExtraCells-1.7.10-2.2.47b73.jar"
+             md5="182e9818c77d2f0dfedef22fd7a3352f"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -756,10 +766,10 @@
              authors="Kihira"
              description="This mod provides various classes, methods and template code to assist other mods." />
 
-        <mod name="Galacticraft Core" version="3.0.7.256"
-             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.7.256.jar"
-             file="GalacticraftCore-1.7-3.0.7.256.jar"
-             md5="b7b66ad0ca35a49ac46e8b1609a72878"
+        <mod name="Galacticraft Core" version="3.0.8.257"
+             url="packs/Monumental/files/1.7.10/GalacticraftCore-1.7-3.0.8.257.jar"
+             file="GalacticraftCore-1.7-3.0.8.257.jar"
+             md5="e7fa0f8c37ca6b63285c6aad358f79c4"
              download="server"
              type="mods"
              depends="Micdoodle Core"
@@ -768,10 +778,10 @@
              authors="Micdoodle8, radfast"
              description="An advanced space travel mod." />
 
-        <mod name="Galacticraft Planets" version="3.0.7.256"
-             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.7.256.jar"
-             file="Galacticraft-Planets-1.7-3.0.7.256.jar"
-             md5="b12536a64a9dd74056b2645102bb9a3e"
+        <mod name="Galacticraft Planets" version="3.0.8.257"
+             url="packs/Monumental/files/1.7.10/Galacticraft-Planets-1.7-3.0.8.257.jar"
+             file="Galacticraft-Planets-1.7-3.0.8.257.jar"
+             md5="52acadf70eda88130b1c5ce95af4baef"
              download="server"
              type="mods"
              depends="Galacticraft Core"
@@ -824,6 +834,17 @@
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5TSWPMD6NLHBN"
              authors="Gregorius Techneticies"
              description="This addon adds the awesome technology of GregTech-Intergalactical to your World! Fusionreactors, Lightningrods and many other technologies and convenient recipes are added by this addon, if you let them enabled in the allmighty Config, of course." />
+
+        <mod name="Guilt Trip" version="4.0.0"
+             url="packs/Monumental/files/1.7.10/GuiltTrip-4.0.0.jar"
+             file="GuiltTrip-4.0.0.jar"
+             md5="779d6bb9da505689dd53b2fa42dead83"
+             download="server"
+             type="mods"
+             website="http://ichun.us/mods/guilt-trip/"
+             donation="http://pitchinbox.com/redirect.php?id=5757827081"
+             authors="iChun"
+             description="This mod tries to guilt players about the helpless creatures that they’ve killed by leaving a solemn reminder floating around their heads." />
 
         <mod name="Hardcore Ender Expansion" version="1.7"
              url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
@@ -937,10 +958,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.660-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.660-experimental.jar"
-             file="industrialcraft-2-2.2.660-experimental.jar"
-             md5="65f1f317cfc60ae45edb9ef27acf0c6d"
+        <mod name="IndustrialCraft 2" version="2.2.667-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.667-experimental.jar"
+             file="industrialcraft-2-2.2.667-experimental.jar"
+             md5="916ff572111a686465b6858f0bd25270"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1033,10 +1054,10 @@
              authors="immibis"
              description="Liquid XP and related machines." />
 
-        <mod name="Logistics Pipes" version="0.8.2.89"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.2.89.jar"
-             file="logisticspipes-0.8.2.89.jar"
-             md5="7a3088c87a7e6bf1679075da2bdb0d0c"
+        <mod name="Logistics Pipes" version="0.8.3.94"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.94.jar"
+             file="logisticspipes-0.8.3.94.jar"
+             md5="09abc9c3d0b29bf1bc658692264f5a39"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1079,10 +1100,10 @@
              authors="mDiyo, boni, progwml6"
              description="This contains shared code for Forge mods and is used by the Slime Knights." />
 
-        <mod name="Micdoodle Core" version="3.0.7.256"
-             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.7.256.jar"
-             file="MicdoodleCore-1.7-3.0.7.256.jar"
-             md5="1df37848ec9436d07e17af973b594e24"
+        <mod name="Micdoodle Core" version="3.0.8.257"
+             url="packs/Monumental/files/1.7.10/MicdoodleCore-1.7-3.0.8.257.jar"
+             file="MicdoodleCore-1.7-3.0.8.257.jar"
+             md5="47d346e0b74d2597f16bbf06f2696192"
              download="server"
              type="mods"
              website="http://www.micdoodle8.com/"
@@ -1090,10 +1111,10 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.5B3"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.5B3.jar"
-             file="Mine Trading Cards-1.5B3.jar"
-             md5="665dada32dc1a8b671d180794606fccb"
+        <mod name="Mine Trading Cards" version="1.5B4"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.5B4.jar"
+             file="Mine Trading Cards-1.5B4.jar"
+             md5="c262a2dcd8de34e07327d45e380214e3"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
@@ -1596,16 +1617,27 @@
              authors="ProfMobius"
              description="RPGAdv Mod adds 3 types of items. Poles and wallsigns are used to create waypoints. Signs are then places on poles." />
 
-        <mod name="Secret Rooms" version="4.7.1.377"
-             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.377.jar"
-             file="secretroomsmod-1.7.10-4.7.1.377.jar"
-             md5="e98bc8aea44c54563b252578e07d316d"
+        <mod name="Secret Rooms" version="4.7.1.386"
+             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.386.jar"
+             file="secretroomsmod-1.7.10-4.7.1.386.jar"
+             md5="2bc49d3e2f90b320745eb8f774b208c1"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/546192-"
              donation="http://www.patreon.com/AbrarSyed"
              authors="AbrarSyed, alexbegt"
              description="This mod adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, levers and more!" />
+
+        <mod name="Shatter" version="4.0.0"
+             url="packs/Monumental/files/1.7.10/Shatter-4.0.0.jar"
+             file="Shatter-4.0.0.jar"
+             md5="ca8466f79b1e7142f405023a3f165b08"
+             download="server"
+             type="mods"
+             website="http://ichun.us/mods/shatter/"
+             donation="http://pitchinbox.com/redirect.php?id=5757827081"
+             authors="iChun"
+             description="Shatter mod, a general death animation replacer for mobs." />
 
         <mod name="Slick-Util" version="-"
              url="packs/Monumental/files/1.6.4/slick-util.jar"
@@ -1772,10 +1804,10 @@
              authors="KingLemmingCoFH, Cynycal, ZeldoKavira"
              description="Expanding Minecraft Thermally! This mod is required for Thermal Expansion and gives modpack makers a way to add resources to their worlds without needing to install all of the tech and other goodies that come with TE." />
 
-        <mod name="TiC Tooltips" version="1.2.1"
-             url="packs/Monumental/files/1.7.10/TiCTooltips-mc1.7.10-1.2.1.jar"
-             file="TiCTooltips-mc1.7.10-1.2.1.jar"
-             md5="9e94137e43d17af177276cb813579970"
+        <mod name="TiC Tooltips" version="1.2.3"
+             url="packs/Monumental/files/1.7.10/TiCTooltips-mc1.7.10-1.2.3.jar"
+             file="TiCTooltips-mc1.7.10-1.2.3.jar"
+             md5="c7ac55fcd934f21449b89c6ed8fa6a51"
              download="server"
              type="mods"
              depends="Tinkers' Construct"
@@ -1844,10 +1876,10 @@
              authors="ChickenBones"
              description="Translocates stuff!" />
 
-        <mod name="Traveller's Gear" version="1.14.3"
-             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.14.3.jar"
-             file="TravellersGear-1.7.10-1.14.3.jar"
-             md5="e42113c782ec32b45285feaba37b423c"
+        <mod name="Traveller's Gear" version="1.14.6"
+             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.14.6.jar"
+             file="TravellersGear-1.7.10-1.14.6.jar"
+             md5="2480bd5dc15367221f88a2cad04b3f09"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224440-travellers-gear"
