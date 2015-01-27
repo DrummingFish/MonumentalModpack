@@ -844,7 +844,8 @@
              website="http://ichun.us/mods/guilt-trip/"
              donation="http://pitchinbox.com/redirect.php?id=5757827081"
              authors="iChun"
-             description="This mod tries to guilt players about the helpless creatures that they’ve killed by leaving a solemn reminder floating around their heads." />
+             description="This mod tries to guilt players about the helpless creatures that they’ve killed by leaving a solemn reminder floating around their heads."
+             optional="yes" />
 
         <mod name="Hardcore Ender Expansion" version="1.7"
              url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
@@ -1634,10 +1635,13 @@
              md5="ca8466f79b1e7142f405023a3f165b08"
              download="server"
              type="mods"
+             depends="iChunUtil"
              website="http://ichun.us/mods/shatter/"
              donation="http://pitchinbox.com/redirect.php?id=5757827081"
              authors="iChun"
-             description="Shatter mod, a general death animation replacer for mobs." />
+             description="Shatter mod, a general death animation replacer for mobs."
+             optional="yes"
+             server="no" />
 
         <mod name="Slick-Util" version="-"
              url="packs/Monumental/files/1.6.4/slick-util.jar"
