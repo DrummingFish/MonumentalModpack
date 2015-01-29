@@ -215,10 +215,10 @@
              authors="SeNtiMeL, Icedfire"
              description="Advanced solar panels is new generation of using solar power. This is addon for IndustrialCraft 2." />
 
-        <mod name="Another One Bites the Dust" version="2.3.6"
-             url="packs/Monumental/files/1.7.10/AOBD-2.3.6.jar"
-             file="AOBD-2.3.6.jar"
-             md5="8345927d64e1263c4706d922726d13bb"
+        <mod name="Another One Bites the Dust" version="2.4.0"
+             url="packs/Monumental/files/1.7.10/AOBD-2.4.0.jar"
+             file="AOBD-2.4.0.jar"
+             md5="f6c5130730e30f9b06d745ea56ea2311"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2319703-aobd-ticic2te3mekanism-add-on-process-cobalt-ardite-and-aluminium-v110/"
@@ -235,10 +235,10 @@
              authors="Hunternif"
              description="Adds the item, Antique Atlas. It's like a fancy antique-looking map, which saves all visited locations so you can browse them." />
 
-        <mod name="AppleCore" version="1.0.2"
-             url="packs/Monumental/files/1.7.10/AppleCore-mc1.7.10-1.0.2.jar"
-             file="AppleCore-mc1.7.10-1.0.2.jar"
-             md5="265caf6d78e9c78711a785f9e140ce25"
+        <mod name="AppleCore" version="1.1.0"
+             url="packs/Monumental/files/1.7.10/AppleCore-mc1.7.10-1.1.0.jar"
+             file="AppleCore-mc1.7.10-1.1.0.jar"
+             md5="eee9b53b347078639fcb658abd2fdb65"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224472-applecore"
@@ -660,10 +660,10 @@
              authors="KzariusRex"
              description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it's colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 
-        <mod name="Equivalent Exchange 3" version="0.2.374"
-             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.374.jar"
-             file="EquivalentExchange3-1.7.10-0.2.374.jar"
-             md5="2217f1b8f85fd19098b83842d609fd87"
+        <mod name="Equivalent Exchange 3" version="0.2.376"
+             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.376.jar"
+             file="EquivalentExchange3-1.7.10-0.2.376.jar"
+             md5="da6211be11b7b1ab0c6a744c6265bbe7"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1h/"
@@ -682,10 +682,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells 2" version="2.2.47b73"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.47b73.jar"
-             file="ExtraCells-1.7.10-2.2.47b73.jar"
-             md5="182e9818c77d2f0dfedef22fd7a3352f"
+        <mod name="ExtraCells 2" version="2.2.48b74"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.48b74.jar"
+             file="ExtraCells-1.7.10-2.2.48b74.jar"
+             md5="e3ceb5ea173bd05d440189eab138e7b0"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -811,6 +811,16 @@
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4"
              authors="BDew"
              description="Advanced apiaries and genetic machines for bees." />
+
+        <mod name="Glass Shards" version="1.0-beta"
+             url="packs/Monumental/files/1.7.10/glass_shards-1.0-beta.jar"
+             file="glass_shards-1.0-beta.jar"
+             md5="4fb89c9ae5d09297371da555c92d1f4b"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
+             authors="ljfa"
+             description="Adds glass shards that drop when breaking glass." />
 
         <mod name="Gravitation Suite" version="2.0.3"
              url="packs/Monumental/files/1.7.10/GraviSuite-1.7.10-2.0.3.jar"
@@ -991,10 +1001,10 @@
              authors="Myrathi"
              description="Removes the need for a single arrow in the inventory when using an 'Infinity I' enchanted bow." />
 
-        <mod name="INpureCore" version="1.0.0B7-19"
-             url="packs/Monumental/files/1.7.10/INpureCore-[1.7.10]1.0.0B7-19.jar"
-             file="INpureCore-[1.7.10]1.0.0B7-19.jar"
-             md5="7e6b3b4ea59b46b0d112ca8cff3578c9"
+        <mod name="INpureCore" version="1.0.0B8-49"
+             url="packs/Monumental/files/1.7.10/INpureCore-[1.7.10]1.0.0B8-49.jar"
+             file="INpureCore-[1.7.10]1.0.0B8-49.jar"
+             md5="8c3cc1d56b406f2b5cb96e8e5bb13fe0"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/223792-inpurecore"
@@ -1112,10 +1122,10 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.5B4"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.5B4.jar"
-             file="Mine Trading Cards-1.5B4.jar"
-             md5="c262a2dcd8de34e07327d45e380214e3"
+        <mod name="Mine Trading Cards" version="1.6B"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.6B.jar"
+             file="Mine Trading Cards-1.6B.jar"
+             md5="3f768c47339badbc68b75d018eb5f835"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
@@ -1200,16 +1210,16 @@
              authors="ProfMobius"
              description="Needed for ProfMobius mods." />
 
-        <mod name="ModTweaker" version="0.6-0"
-             url="packs/Monumental/files/1.7.10/ModTweaker-1.7.X-0.6-0.jar"
-             file="ModTweaker-1.7.X-0.6-0.jar"
-             md5="4cbee2fb66cfaef1fa647a2b1aa8286f"
+        <mod name="ModTweaker 2" version="0.7.b33"
+             url="packs/Monumental/files/1.7.10/ModTweaker 2-0.7.b33.jar"
+             file="ModTweaker 2-0.7.b33.jar"
+             md5="f9cba494da1c2784e7d8717abd46147a"
              download="server"
              type="mods"
              depends="MineTweaker"
              website="http://minecraft.curseforge.com/mc-mods/220954-modtweaker"
              donation="http://www.patreon.com/joshiejack"
-             authors="joshiejack"
+             authors="jaredlll08, joshiejack"
              description="ModTweaker is an addon for MineTweaker." />
 
         <mod name="Modular Force Field System" version="4.1.0.44"
@@ -1727,10 +1737,10 @@
              description="Tails adds in a bunch of different tails, ears and wings including various subtypes all of which you can colour to your liking!"
              optional="yes" />
 
-        <mod name="Thaumcraft" version="4.2.3.3"
-             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.3.jar"
-             file="Thaumcraft-1.7.10-4.2.3.3.jar"
-             md5="68b2e4e4afd0c25f4124e76a7118940d"
+        <mod name="Thaumcraft" version="4.2.3.4"
+             url="packs/Monumental/files/1.7.10/Thaumcraft-1.7.10-4.2.3.4.jar"
+             file="Thaumcraft-1.7.10-4.2.3.4.jar"
+             md5="5ae79255dc8afdf22f59ef46c096eec8"
              download="server"
              type="mods"
              depends="Baubles"
