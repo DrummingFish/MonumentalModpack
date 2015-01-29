@@ -75,10 +75,10 @@
     </libraries>
     <mods>
         <!-- Forge -->
-        <mod name="Minecraft Forge" version="11.14.0.1287"
-             url="packs/Monumental/files/1.8/forge-1.8-11.14.0.1287-1.8-universal.jar"
-             file="forge-1.8-11.14.0.1287-1.8-universal.jar"
-             md5="1ea5bda7b495fda0e7469540974c433d"
+        <mod name="Minecraft Forge" version="11.14.0.1292"
+             url="packs/Monumental/files/1.8/forge-1.8-11.14.0.1292-1.8-universal.jar"
+             file="forge-1.8-11.14.0.1292-1.8-universal.jar"
+             md5="727621f3efd33cc5b365da6b83aa5ac9"
              download="server"
              type="forge"
              website="http://www.minecraftforge.net/"
@@ -87,10 +87,10 @@
              description="Minecraft Forge is a modding API used by a lot of mods." />
 
         <!-- Dependencies -->
-        <mod name="CodeChickenLib" version="1.1.2.115"
-             url="packs/Monumental/files/1.8/CodeChickenLib-1.8-1.1.2.115-universal.jar"
-             file="CodeChickenLib-1.8-1.1.2.115-universal.jar"
-             md5="6888b840febe94615656e394bba72111"
+        <mod name="CodeChickenLib" version="1.1.2.131"
+             url="packs/Monumental/files/1.8/CodeChickenLib-1.8-1.1.2.131-universal.jar"
+             file="CodeChickenLib-1.8-1.1.2.131-universal.jar"
+             md5="a949f9fd0f7f447baf2abc32483dac46"
              download="server"
              type="dependency"
              website="http://www.minecraftforum.net/topic/909223-"
@@ -143,6 +143,29 @@
              authors="ChickenBones"
              description="Core library for all ChickenBones mods." />
 
+        <mod name="Damage Indicators" version="3.3.3"
+             url="packs/Monumental/files/1.8/[1.8]DamageIndicatorsMod-3.3.3.jar"
+             file="[1.8]DamageIndicatorsMod-3.3.3.jar"
+             md5="ee0c3e9dd202ae672298800531d21fbe"
+             download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/1536685-"
+             donation="https://dl.dropbox.com/u/74770478/donate.html"
+             authors="rich1051414"
+             description="Displays the damage you inflict on creatures, as well as current health, name and potion effects."
+             optional="yes"
+             server="no" />
+
+        <mod name="Glass Shards" version="1.0-beta"
+             url="packs/Monumental/files/1.8/glass_shards_mc1.8-1.0-beta.jar"
+             file="glass_shards_mc1.8-1.0-beta.jar"
+             md5="ac46c62b42f38a1cc167620587d181ee"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
+             authors="ljfa"
+             description="Adds glass shards that drop when breaking glass." />
+
         <mod name="Hopper Ducts" version="1.4.5"
              url="packs/Monumental/files/1.8/hopperducts-mc1.8-1.4.5.jar"
              file="hopperducts-mc1.8-1.4.5.jar"
@@ -165,20 +188,20 @@
              description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
              server="no" />
 
-        <mod name="Iron Chest" version="6.0.88.746"
-             url="packs/Monumental/files/1.8/ironchest-1.8-6.0.88.746-universal.jar"
-             file="ironchest-1.8-6.0.88.746-universal.jar"
-             md5="7c2cb764dce38c3ca80d76be0a04fcff"
+        <mod name="Iron Chest" version="6.0.90.747"
+             url="packs/Monumental/files/1.8/ironchest-1.8-6.0.90.747-universal.jar"
+             file="ironchest-1.8-6.0.90.747-universal.jar"
+             md5="09d4bb3fe330c3f9a968876ea50267ac"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/981855-"
              authors="cpw, progwml6"
              description="New chests with larger sizes, with in-place upgrade items." />
 
-        <mod name="LiteLoader" version="00-SNAPSHOT"
+        <mod name="LiteLoader" version="SNAPSHOT-r365"
              url="packs/Monumental/files/1.8/liteloader-1.8.jar"
              file="liteloader-1.8.jar"
-             md5="1e7862eba6c145c09b511715936e5a64"
+             md5="1487ad5707fddcb6f1b4bd4c89cd8ceb"
              download="server"
              type="mods"
              website="http://www.liteloader.com/"
@@ -208,10 +231,10 @@
              description="A very simple mod created to clean up and organize the keybinds gui, organizing mods into their own category and sub menu."
              server="no" />
 
-        <mod name="NotEnoughItems" version="1.0.5.84"
-             url="packs/Monumental/files/1.8/NotEnoughItems-1.8-1.0.5.84-universal.jar"
-             file="NotEnoughItems-1.8-1.0.5.84-universal.jar"
-             md5="958ebcdf98e36c6c1144b97a1151d50d"
+        <mod name="NotEnoughItems" version="1.0.5.87"
+             url="packs/Monumental/files/1.8/NotEnoughItems-1.8-1.0.5.87-universal.jar"
+             file="NotEnoughItems-1.8-1.0.5.87-universal.jar"
+             md5="c041898ed63cccfa8e0ca52be7ea84aa"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -220,10 +243,10 @@
              authors="ChickenBones"
              description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
 
-        <mod name="VoxelMap" version="1.4.0"
-             url="packs/Monumental/files/1.8/mod_voxelMap_1.4.0_for_1.8.litemod"
-             file="mod_voxelMap_1.4.0_for_1.8.litemod"
-             md5="ae30cbd652b109f1fc771423922d5db8"
+        <mod name="VoxelMap" version="1.4.8"
+             url="packs/Monumental/files/1.8/mod_voxelMap_1.4.8_for_1.8.litemod"
+             file="mod_voxelMap_1.4.8_for_1.8.litemod"
+             md5="4fae70eb9ef5770f82280fe3f08c66bc"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/225179-voxelmap"
