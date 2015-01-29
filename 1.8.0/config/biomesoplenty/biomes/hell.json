@@ -1,0 +1,46 @@
+{
+  "biomeName": "Hell",
+  "biomeId": 8,
+  "topBlock": {
+    "block": "minecraft:grass",
+    "properties": {
+      "snowy": "false"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "rootHeight": 0.1,
+  "rootVariation": 0.2,
+  "temperature": 2.0,
+  "rainfall": 0.0,
+  "color": 16711680,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityGhast",
+      "weight": 50,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityPigZombie",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityMagmaCube",
+      "weight": 1,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    }
+  ]
+}

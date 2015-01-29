@@ -1,0 +1,88 @@
+{
+  "biomeName": "River",
+  "biomeId": 7,
+  "topBlock": {
+    "block": "minecraft:grass",
+    "properties": {
+      "snowy": "false"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "rootHeight": -0.5,
+  "rootVariation": 0.0,
+  "temperature": 0.5,
+  "rainfall": 0.5,
+  "color": 255,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySpider",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityZombie",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySkeleton",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityCreeper",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySlime",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityEnderman",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityWitch",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 1
+    },
+    {
+      "entityType": "ambient",
+      "entityClass": "net.minecraft.entity.passive.EntityBat",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 8
+    },
+    {
+      "entityType": "water_creature",
+      "entityClass": "net.minecraft.entity.passive.EntitySquid",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "biomeName": "MushroomIslandShore",
+  "biomeId": 15,
+  "topBlock": {
+    "block": "minecraft:mycelium",
+    "properties": {
+      "snowy": "false"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "rootHeight": 0.0,
+  "rootVariation": 0.025,
+  "temperature": 0.9,
+  "rainfall": 1.0,
+  "color": 10486015,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityMooshroom",
+      "weight": 8,
+      "minGroupCount": 4,
+      "maxGroupCount": 8
+    },
+    {
+      "entityType": "ambient",
+      "entityClass": "net.minecraft.entity.passive.EntityBat",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 8
+    }
+  ]
+}

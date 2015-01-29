@@ -1,0 +1,87 @@
+{
+  "biomeName": "DesertHills",
+  "biomeId": 17,
+  "topBlock": {
+    "block": "minecraft:sand",
+    "properties": {
+      "variant": "sand"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:sand",
+    "properties": {
+      "variant": "sand"
+    }
+  },
+  "rootHeight": 0.45,
+  "rootVariation": 0.3,
+  "temperature": 2.0,
+  "rainfall": 0.0,
+  "color": 13786898,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySpider",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityZombie",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySkeleton",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityCreeper",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySlime",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityEnderman",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityWitch",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 1
+    },
+    {
+      "entityType": "ambient",
+      "entityClass": "net.minecraft.entity.passive.EntityBat",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 8
+    },
+    {
+      "entityType": "water_creature",
+      "entityClass": "net.minecraft.entity.passive.EntitySquid",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    }
+  ]
+}

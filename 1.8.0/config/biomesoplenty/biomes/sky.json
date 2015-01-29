@@ -1,0 +1,33 @@
+{
+  "biomeName": "The End",
+  "biomeId": 9,
+  "topBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "rootHeight": 0.1,
+  "rootVariation": 0.2,
+  "temperature": 0.5,
+  "rainfall": 0.5,
+  "color": 8421631,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityEnderman",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    }
+  ]
+}

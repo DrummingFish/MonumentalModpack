@@ -1,0 +1,130 @@
+{
+  "biomeName": "ForestHills",
+  "biomeId": 18,
+  "topBlock": {
+    "block": "minecraft:grass",
+    "properties": {
+      "snowy": "false"
+    }
+  },
+  "fillerBlock": {
+    "block": "minecraft:dirt",
+    "properties": {
+      "snowy": "false",
+      "variant": "dirt"
+    }
+  },
+  "rootHeight": 0.45,
+  "rootVariation": 0.3,
+  "temperature": 0.7,
+  "rainfall": 0.8,
+  "color": 2250012,
+  "waterColorMultiplier": 16777215,
+  "entities": [
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySpider",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityZombie",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySkeleton",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityCreeper",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntitySlime",
+      "weight": 100,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityEnderman",
+      "weight": 10,
+      "minGroupCount": 1,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "monster",
+      "entityClass": "net.minecraft.entity.monster.EntityWitch",
+      "weight": 5,
+      "minGroupCount": 1,
+      "maxGroupCount": 1
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntitySheep",
+      "weight": 12,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityRabbit",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 3
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityPig",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityChicken",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityCow",
+      "weight": 8,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "creature",
+      "entityClass": "net.minecraft.entity.passive.EntityWolf",
+      "weight": 5,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    },
+    {
+      "entityType": "ambient",
+      "entityClass": "net.minecraft.entity.passive.EntityBat",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 8
+    },
+    {
+      "entityType": "water_creature",
+      "entityClass": "net.minecraft.entity.passive.EntitySquid",
+      "weight": 10,
+      "minGroupCount": 4,
+      "maxGroupCount": 4
+    }
+  ]
+}
