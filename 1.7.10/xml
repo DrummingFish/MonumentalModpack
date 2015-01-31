@@ -1,6 +1,6 @@
 <version>
 	<pack>
-    	<version>BETA-v2.0.5</version>
+    	<version>BETA-v2.0.5a</version>
     	<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -1077,9 +1077,9 @@
             description="Liquid XP and related machines." />
             
         <mod name="LiteLoader" version="1.7.10_04" 
-            url="packs/Monumental/files/1.8/liteloader-1.8.jar" 
-            file="liteloader-1.8.jar" 
-            md5="1487ad5707fddcb6f1b4bd4c89cd8ceb" 
+            url="packs/Monumental/files/1.7.10/liteloader-1.7.10.jar" 
+            file="liteloader-1.7.10.jar" 
+            md5="63ada46e033d0cb6782bada09ad5ca4e" 
             download="server" 
             type="mods" 
             website="http://www.liteloader.com/" 
@@ -2034,7 +2034,7 @@
             url="http://files.player.to/fastcraft-1.16.jar" 
             file="fastcraft-1.16.jar" 
             md5="bff2f149879139d7b25ea4ec4b16866b" 
-            download="browser"
+            download="browser" 
             type="mods" 
             website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820" 
             authors="Player"
