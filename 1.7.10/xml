@@ -1084,7 +1084,9 @@
             type="mods" 
             website="http://www.liteloader.com/" 
             authors="Mumfrey"
-            description="LiteLoader is a lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics." />
+            description="LiteLoader is a lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics."
+            optional="yes"
+            server="no" />
             
         <mod name="Logistics Pipes" version="0.8.3.96" 
             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.96.jar" 
@@ -1966,6 +1968,7 @@
             md5="769d841423007977597ea08dfffe8f02" 
             download="server" 
             type="mods" 
+            depends="LiteLoader"
             website="http://minecraft.curseforge.com/mc-mods/225179-voxelmap" 
             authors="MamiyaOtaru" 
             description="VoxelMap is a minimap for Minecraft supporting waypoints, rotating minimap and entity tracking."
