@@ -148,6 +148,9 @@ OpenBlocks
 	Reduced Sponge block range from 3 to 2
 	Sponge on a Stick use count reduced from 256 to 128
 
+Powersuit Addons
+    Disabled "cheaty" leather recipe
+
 QuarryPlus
 	Increased recipe difficulty from 2 to 5
 
