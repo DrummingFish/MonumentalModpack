@@ -1,5 +1,9 @@
 {
-  "red_x_large": "antiqueatlas:textures/gui/markers/red_x_large.png",
-  "google": "antiqueatlas:textures/gui/markers/google_marker.png",
-  "red_x_small": "antiqueatlas:textures/gui/markers/red_x_small.png"
+  "version": 1,
+  "data": {
+    "google": "antiqueatlas:textures/gui/markers/google_marker.png",
+    "red_x_large": "antiqueatlas:textures/gui/markers/red_x_large.png",
+    "red_x_small": "antiqueatlas:textures/gui/markers/red_x_small.png",
+    "village": "antiqueatlas:textures/gui/markers/village.png"
+  }
 }

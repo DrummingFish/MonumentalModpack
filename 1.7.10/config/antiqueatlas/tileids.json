@@ -1,4 +1,7 @@
 {
-  "npcVillageDoor": -3,
-  "npcVillageTerritory": -2
+  "version": 1,
+  "data": {
+    "npcVillageDoor": -3,
+    "npcVillageTerritory": -2
+  }
 }

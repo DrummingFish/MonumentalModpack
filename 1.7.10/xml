@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.0.7</version>
+        <version>BETA-v2.1.0</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -102,10 +102,10 @@
     </libraries>
     <mods>
         <!-- Forge -->
-        <mod name="Minecraft Forge" version="10.13.2.1230"
-             url="packs/Monumental/files/1.7.10/forge-1.7.10-10.13.2.1230-universal.jar"
-             file="forge-1.7.10-10.13.2.1230-universal.jar"
-             md5="f25839830ec0a9105d4c792b83e5dbab"
+        <mod name="Minecraft Forge" version="10.13.2.1291"
+             url="packs/Monumental/files/1.7.10/forge-1.7.10-10.13.2.1291-universal.jar"
+             file="forge-1.7.10-10.13.2.1291-universal.jar"
+             md5="e71e88c744588fdad48d3b3beb4935fc"
              download="server"
              type="forge"
              website="http://www.minecraftforge.net/"
@@ -225,10 +225,10 @@
              authors="ganymedes01"
              description="Automatically detects every single ore from every single mod installed and creates the necessary dusts and etc in order for that metal to be processed on several mod's machines!" />
 
-        <mod name="Antique Atlas" version="4.0.1a"
-             url="packs/Monumental/files/1.7.10/antiqueatlas-4.0.1a-1.7.10.jar"
-             file="antiqueatlas-4.0.1a-1.7.10.jar"
-             md5="421a1c2368c4a91bf81186cd2e93ae75"
+        <mod name="Antique Atlas" version="4.1.1"
+             url="packs/Monumental/files/1.7.10/antiqueatlas-4.1.1-1.7.10.jar"
+             file="antiqueatlas-4.1.1-1.7.10.jar"
+             md5="cd9141b78cef4b4d8119ed3046a2c2bf"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2045745-15216xforge-antique-atlas/"
@@ -283,10 +283,10 @@
              authors="Mithion"
              description="A look into what Minecraft could become if you add a splash of magic..." />
 
-        <mod name="AsieLib" version="0.3.8"
-             url="packs/Monumental/files/1.7.10/AsieLib-1.7.10-0.3.8.jar"
-             file="AsieLib-1.7.10-0.3.8.jar"
-             md5="38915d44065a21c742575f2be817b88f"
+        <mod name="AsieLib" version="0.3.9"
+             url="packs/Monumental/files/1.7.10/AsieLib-1.7.10-0.3.9.jar"
+             file="AsieLib-1.7.10-0.3.9.jar"
+             md5="15764802ccdf6f9e27b359642a6ad178"
              download="server"
              type="mods"
              website="http://mc.shinonome.ch/doku.php?id=wiki:asielib"
@@ -330,10 +330,10 @@
              authors="BDew"
              description="Library for BDew mods." />
 
-        <mod name="BetterStorage" version="0.11.3.123"
-             url="packs/Monumental/files/1.7.10/BetterStorage-1.7.10-0.11.3.123.jar"
-             file="BetterStorage-1.7.10-0.11.3.123.jar"
-             md5="4330d6f1d07e2d32f191fa991ba5b352"
+        <mod name="BetterStorage" version="0.12.0.124"
+             url="packs/Monumental/files/1.7.10/BetterStorage-1.7.10-0.12.0.124.jar"
+             file="BetterStorage-1.7.10-0.12.0.124.jar"
+             md5="bae25c3c493b184a7d0ebb719d5c5571"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1548203-"
@@ -625,10 +625,10 @@
              description="As the title says, Emotes lets you perform... emotes."
              optional="yes" />
 
-        <mod name="Ender IO" version="2.2.7.325"
-             url="packs/Monumental/files/1.7.10/EnderIO-1.7.10-2.2.7.325.jar"
-             file="EnderIO-1.7.10-2.2.7.325.jar"
-             md5="083ee60f6c18d4e68ab8b71fec449217"
+        <mod name="Ender IO" version="2.2.8.343"
+             url="packs/Monumental/files/1.7.10/EnderIO-1.7.10-2.2.8.343.jar"
+             file="EnderIO-1.7.10-2.2.8.343.jar"
+             md5="a48e2a61db94e23cffe401bed82a73d8"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1937619-"
@@ -690,10 +690,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells 2" version="2.2.49b75"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.49b75.jar"
-             file="ExtraCells-1.7.10-2.2.49b75.jar"
-             md5="f630f0b0d1541c3809584d894d9e4bed"
+        <mod name="ExtraCells 2" version="2.2.53b82"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.53b82.jar"
+             file="ExtraCells-1.7.10-2.2.53b82.jar"
+             md5="784e5dab145f27b7bf520a77946c0f1d"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -821,10 +821,10 @@
              authors="BDew"
              description="Advanced apiaries and genetic machines for bees." />
 
-        <mod name="Glass Shards" version="1.0-beta"
-             url="packs/Monumental/files/1.7.10/glass_shards-1.0-beta.jar"
-             file="glass_shards-1.0-beta.jar"
-             md5="4fb89c9ae5d09297371da555c92d1f4b"
+        <mod name="Glass Shards" version="1.1-beta"
+             url="packs/Monumental/files/1.7.10/glass_shards-1.1-beta.jar"
+             file="glass_shards-1.1-beta.jar"
+             md5="75bfc569eefb2cebccfa1328a5d7c479"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
@@ -980,10 +980,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.667-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.667-experimental.jar"
-             file="industrialcraft-2-2.2.667-experimental.jar"
-             md5="916ff572111a686465b6858f0bd25270"
+        <mod name="IndustrialCraft 2" version="2.2.671-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.671-experimental.jar"
+             file="industrialcraft-2-2.2.671-experimental.jar"
+             md5="0a9bd606434c83321e677343bc5ca460"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1088,10 +1088,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.98"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.98.jar"
-             file="logisticspipes-0.8.3.98.jar"
-             md5="7d73809c9ebb515801baba9b2c273174"
+        <mod name="Logistics Pipes" version="0.8.3.99"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.99.jar"
+             file="logisticspipes-0.8.3.99.jar"
+             md5="da4bb1f77d3434458861e1cf129f1eb7"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1106,10 +1106,10 @@
              md5="afe86c2f390c625f16b1f915d9ddc629"
              download="server"
              type="mods"
-             depends="Numina, Slick-Util"
+             depends="Numina, Slick-Util, OggAudioData"
              website="http://machinemuse.net/"
              donation="http://machinemuse.net/"
-             authors="MachineMuse"
+             authors="QMXTech, MachineMuse"
              description="A mod which adds modular power armor, a power tool, and a tinker table to configure them." />
 
         <mod name="Magic Bees" version="2.1.22"
@@ -1246,17 +1246,6 @@
              authors="jaredlll08, joshiejack"
              description="ModTweaker is an addon for MineTweaker." />
 
-        <mod name="Modular Force Field System" version="4.1.0.44"
-             url="packs/Monumental/files/1.7.10/mffs-4.1.0.44-core.jar"
-             file="mffs-4.1.0.44-core.jar"
-             md5="5ac571d481065fe61d2a41a83ab9648e"
-             download="server"
-             type="mods"
-             depends="Resonant Engine, Universal Electricity"
-             website="http://calclavia.com/mffs/downloads/"
-             authors="Calclavia"
-             description="Modular Force Field System is a Minecraft mod that adds force fields, defensive systems and world shaping mechanics to Minecraft." />
-
         <mod name="Morph" version="0.9.1"
              url="packs/Monumental/files/1.7.10/Morph-Beta-0.9.1.jar"
              file="Morph-Beta-0.9.1.jar"
@@ -1304,10 +1293,10 @@
              authors="BDew"
              description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
 
-        <mod name="NEI Integration" version="1.0.5"
-             url="packs/Monumental/files/1.7.10/NEIIntegration-MC1.7.10-1.0.5.jar"
-             file="NEIIntegration-MC1.7.10-1.0.5.jar"
-             md5="551ef78a508d9a413a347d6d995402a4"
+        <mod name="NEI Integration" version="1.0.6"
+             url="packs/Monumental/files/1.7.10/NEIIntegration-MC1.7.10-1.0.6.jar"
+             file="NEIIntegration-MC1.7.10-1.0.6.jar"
+             md5="aa8a468d5a4f7672f5d9f062d10a2ede"
              download="server"
              type="mods"
              depends="NotEnoughItems"
@@ -1351,10 +1340,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="NotEnoughItems" version="1.0.3.78"
-             url="packs/Monumental/files/1.7.10/NotEnoughItems-1.7.10-1.0.3.78-universal.jar"
-             file="NotEnoughItems-1.7.10-1.0.3.78-universal.jar"
-             md5="1d739a7879cc4ed71e46960ed4c4518a"
+        <mod name="NotEnoughItems" version="1.0.4.83"
+             url="packs/Monumental/files/1.7.10/NotEnoughItems-1.7.10-1.0.4.83-universal.jar"
+             file="NotEnoughItems-1.7.10-1.0.4.83-universal.jar"
+             md5="8988420f4c4781580df6d05130920f10"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -1382,7 +1371,7 @@
              type="mods"
              website="http://machinemuse.net/"
              donation="http://machinemuse.net/"
-             authors="MachineMuse"
+             authors="QMXTech, MachineMuse"
              description="A common library of useful functions and utilities for dealing with Minecraft's source code." />
 
         <mod name="Obsidian Pressure Plates" version="3.0.0.18"
@@ -1394,6 +1383,16 @@
              website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
              authors="Myrathi"
              description="Provides pressure plates that can only be activated by players (plus NPC, quiet and shrouded variants)." />
+
+        <mod name="OggAudioData" version="0.1.0"
+             url="packs/Monumental/files/1.7.10/OggAudioData-0.1.0.jar"
+             file="OggAudioData-0.1.0.jar"
+             md5="6533a9221bc02baf88e16471c00adb00"
+             download="server"
+             type="mods"
+             website="https://github.com/QMXTech/OggAudioData"
+             authors="QMXTech"
+             description="A universal Java library designed to add limited OGG/Vorbis file metadata retrieval methods to any Java application." />
 
         <mod name="OpenBlocks" version="1.3"
              url="packs/Monumental/files/1.7.10/OpenBlocks-1.7.10-1.3.jar"
@@ -1510,7 +1509,7 @@
              type="mods"
              depends="MachineMuse's Modular Powersuits"
              website="http://www.minecraftforum.net/topic/2287651-experimental164-modular-powersuits-addons-mpsa-requires-modular-powersuits/"
-             authors="eximius88, Andrew2448"
+             authors="QMXTech, eximius88, Andrew2448"
              description="An addon for MachineMuse's Modular Powersuits which adds new modules and components." />
 
         <mod name="ProjectRed Base" version="4.5.8.59"
@@ -1631,16 +1630,6 @@
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6"
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Redstone Arsenal adds several new items used to create powerful tools." />
-
-        <mod name="Resonant Engine" version="3.0.0.297"
-             url="packs/Monumental/files/1.7.10/resonant-engine-3.0.0.297-core.jar"
-             file="resonant-engine-3.0.0.297-core.jar"
-             md5="58934bae626406d7870dde83ce6d53ec"
-             download="server"
-             type="mods"
-             website="http://universalelectricity.com/resonant-engine/"
-             authors="Calclavia"
-             description="Resonant Engine is a powerful modding framework created by the Universal Electricity team to make modding easier. The Resonant Engine contains a systematic and clean way to create blocks and a large library of prefabricated code to reduce your code so you can focus more on your content." />
 
         <mod name="RPGAdv Mod" version="1.0.0"
              url="packs/Monumental/files/1.7.10/RPGAdvMod-1.0.0_1.7.10.jar"
@@ -1870,16 +1859,16 @@
              authors="mDiyo, fuj1n, ProgWML6, Sunstrike"
              description="A little of this, a little of that, a lot of tinkering, and a lot of tools." />
 
-        <mod name="Tinkers' Mechworks" version="0.2.10"
-             url="packs/Monumental/files/1.7.10/TMechworks-1.7.10-0.2.10.jar"
-             file="TMechworks-1.7.10-0.2.10.jar"
-             md5="5c91ce73ea1923598aa96c490a3b29ab"
+        <mod name="Tinkers' Mechworks" version="0.2.12.95"
+             url="packs/Monumental/files/1.7.10/TMechworks-1.7.10-0.2.12.95.jar"
+             file="TMechworks-1.7.10-0.2.12.95.jar"
+             md5="14f7f798e1f5091f3875fe1478801bc5"
              download="server"
              type="mods"
              depends="Tinkers' Construct"
              website="http://www.minecraftforum.net/topic/1659892-"
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=TinkersConstruct&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
-             authors="mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox"
+             authors="Glassmaker, mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox"
              description="Addon for Tinkers' Construct." />
 
         <mod name="Torch Levers" version="1.4.1"
@@ -1950,10 +1939,10 @@
              description="A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end. It is inspired by Connected Destruction by bspkrs."
              optional="yes" />
 
-        <mod name="VeinMiner Mod Integration" version="0.2.0.2"
-             url="packs/Monumental/files/1.7.10/veinminermodintegration-1.7.10-0.2.0.2.jar"
-             file="veinminermodintegration-1.7.10-0.2.0.2.jar"
-             md5="7ce804c48a76df97416696069e5fa6b8"
+        <mod name="VeinMiner Mod Integration" version="0.4.1.4"
+             url="packs/Monumental/files/1.7.10/veinminermodintegration-1.7.10-0.4.1.4.jar"
+             file="veinminermodintegration-1.7.10-0.4.1.4.jar"
+             md5="dd965993e03402b149a33e6f522b8cf0"
              download="server"
              type="mods"
              depends="Vein Miner"
@@ -1975,10 +1964,10 @@
              server="no"
              optional="yes" />
 
-        <mod name="WAILA" version="1.5.5"
-             url="packs/Monumental/files/1.7.10/Waila-1.5.5_1.7.10.jar"
-             file="Waila-1.5.5_1.7.10.jar"
-             md5="5a423d139dfe8dae69dce681608eb958"
+        <mod name="WAILA" version="1.5.8a"
+             url="packs/Monumental/files/1.7.10/Waila-1.5.8a_1.7.10.jar"
+             file="Waila-1.5.8a_1.7.10.jar"
+             md5="3643cd6fec8d92fa05851983eb078439"
              download="server"
              type="mods"
              depends="NotEnoughItems"

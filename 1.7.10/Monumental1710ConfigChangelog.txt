@@ -8,9 +8,14 @@ Applied Energistics
 
 ArmorStatusHUD
 	Changed position to middle-left of screen
+	Changed display direction from horizontal to vertical
 
 Ars Magica 2 
-	Moonstone Metoers don't destroy terrain
+	Moonstone Meteors don't destroy terrain
+	Buff HUD invisible
+	Numeric values visible
+	Armour status HUD invisible
+	Repositioned HUD
 
 Backpack
 	Big Backpacks can only be crafted by upgrading from a Small Backpack
@@ -72,6 +77,7 @@ Ender IO
 	Hard recipes enabled
 	Machine Chassis uses Steel ingots instead of Iron
 	Skeletons and Wither Skeletons are not properly seperated (experimental feature that for some reason was on by default)
+	Apiarist cost increased from 10 to 20 lvls
 
 Ender Storage
 	Disabled vanilla Ender Chest crafting
