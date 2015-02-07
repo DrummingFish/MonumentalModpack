@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.1.1</version>
+        <version>BETA-v2.1.2</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -271,10 +271,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Ars Magica 2" version="1.4.0.006"
-             url="packs/Monumental/files/1.7.10/AM2-1.4.0.006.jar"
-             file="AM2-1.4.0.006.jar"
-             md5="5a9fafb3eeb8c3cd08bf5f3862b60ab1"
+        <mod name="Ars Magica 2" version="1.4.0.008"
+             url="packs/Monumental/files/1.7.10/1.7.10_AM2-1.4.0.008.jar"
+             file="1.7.10_AM2-1.4.0.008.jar"
+             md5="b0a2f253ad5d977ac5d97f1723d56535"
              download="server"
              type="mods"
              depends="AnimationAPI"
@@ -319,10 +319,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="BdLib" version="1.6.0.36"
-             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.0.36.jar"
-             file="bdlib-mc1710-1.6.0.36.jar"
-             md5="96a9843c849cb35f7e3453c62011f640"
+        <mod name="BdLib" version="1.6.1.39"
+             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.1.39.jar"
+             file="bdlib-mc1710-1.6.1.39.jar"
+             md5="e24b38cbcb1ecc9e3cce50f3e09f258b"
              download="server"
              type="mods"
              website="https://github.com/bdew/bdlib"
@@ -1653,10 +1653,10 @@
              description="RPGAdv Mod adds 3 types of items. Poles and wallsigns are used to create waypoints. Signs are then places on poles."
              optional="yes" />
 
-        <mod name="Secret Rooms" version="4.7.1.394"
-             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.394.jar"
-             file="secretroomsmod-1.7.10-4.7.1.394.jar"
-             md5="67ab0b124d1c350d5464163bc88f8cd5"
+        <mod name="Secret Rooms" version="4.7.1.397"
+             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.397.jar"
+             file="secretroomsmod-1.7.10-4.7.1.397.jar"
+             md5="92cc01df16a8f6c86276fbcfd193924a"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/546192-"
@@ -1810,10 +1810,10 @@
              authors="pixlepix, nekosune"
              description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Research that comes from this mod are prefixed by [TT]." />
 
-        <mod name="The Twilight Forest" version="2.3.2"
-             url="packs/Monumental/files/1.7.10/twilightforest-1.7.10-2.3.2.jar"
-             file="twilightforest-1.7.10-2.3.2.jar"
-             md5="c4123a787738ac6a42941112b1cf69af"
+        <mod name="The Twilight Forest" version="2.3.3"
+             url="packs/Monumental/files/1.7.10/twilightforest-1.7.10-2.3.3.jar"
+             file="twilightforest-1.7.10-2.3.3.jar"
+             md5="bc461b1af4db2af096bf4b76d24bb5e7"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/561673-"
@@ -1918,10 +1918,10 @@
              authors="ChickenBones"
              description="Translocates stuff!" />
 
-        <mod name="Traveller's Gear" version="1.14.6"
-             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.14.6.jar"
-             file="TravellersGear-1.7.10-1.14.6.jar"
-             md5="2480bd5dc15367221f88a2cad04b3f09"
+        <mod name="Traveller's Gear" version="1.15.0"
+             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.15.0.jar"
+             file="TravellersGear-1.7.10-1.15.0.jar"
+             md5="0ac02fff710f106601bae11682a941e7"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224440-travellers-gear"
