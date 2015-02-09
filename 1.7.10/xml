@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.1.2</version>
+        <version>BETA-v2.1.3</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -319,10 +319,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="BdLib" version="1.6.1.39"
-             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.1.39.jar"
-             file="bdlib-mc1710-1.6.1.39.jar"
-             md5="e24b38cbcb1ecc9e3cce50f3e09f258b"
+        <mod name="BdLib" version="1.6.2.41"
+             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.2.41.jar"
+             file="bdlib-mc1710-1.6.2.41.jar"
+             md5="48a8f0a19df611e358aba96d11a436e6"
              download="server"
              type="mods"
              website="https://github.com/bdew/bdlib"
@@ -799,20 +799,20 @@
              authors="Micdoodle8, radfast"
              description="Addon for Galacticraft." />
 
-        <mod name="Garden Stuff" version="1.2.2"
-             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.2.jar"
-             file="GardenStuff-1.7.10-1.2.2.jar"
-             md5="aaff533b5b0b9f4ab0bb693be6041203"
+        <mod name="Garden Stuff" version="1.2.3"
+             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.3.jar"
+             file="GardenStuff-1.7.10-1.2.3.jar"
+             md5="468a4df2b46416bbedbe8d4ee8f26f89"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14"
              authors="jaquadro"
              description="This is a collection of garden-related mods originally based on Modular Flower Pots." />
 
-        <mod name="Gendustry" version="1.4.4.54"
-             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.4.54.jar"
-             file="gendustry-mc1710-1.4.4.54.jar"
-             md5="add634d97e413d5e2faec822a973a98c"
+        <mod name="Gendustry" version="1.4.5.56"
+             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.5.56.jar"
+             file="gendustry-mc1710-1.4.5.56.jar"
+             md5="75cf9f159de15206e6d9c71a7cd25df5"
              download="server"
              type="mods"
              depends="BdLib, Forestry"
@@ -991,10 +991,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.673-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.673-experimental.jar"
-             file="industrialcraft-2-2.2.673-experimental.jar"
-             md5="c9430db8032bb1c4f5448baae022ab42"
+        <mod name="IndustrialCraft 2" version="2.2.675-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.675-experimental.jar"
+             file="industrialcraft-2-2.2.675-experimental.jar"
+             md5="d595e4b1afecb97e96819c83df4da1a7"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1653,10 +1653,10 @@
              description="RPGAdv Mod adds 3 types of items. Poles and wallsigns are used to create waypoints. Signs are then places on poles."
              optional="yes" />
 
-        <mod name="Secret Rooms" version="4.7.1.397"
-             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.397.jar"
-             file="secretroomsmod-1.7.10-4.7.1.397.jar"
-             md5="92cc01df16a8f6c86276fbcfd193924a"
+        <mod name="Secret Rooms" version="4.7.1.399"
+             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.399.jar"
+             file="secretroomsmod-1.7.10-4.7.1.399.jar"
+             md5="256873234d8ff6a86123d87ce2cf7bc4"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/546192-"
