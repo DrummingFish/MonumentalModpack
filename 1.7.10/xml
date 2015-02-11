@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.1.3</version>
+        <version>BETA-v2.1.4</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -180,6 +180,17 @@
              description="Dependency for ProjectRed." />
 
         <!-- Main Mods (w/ Permission) -->
+        <mod name="Additional Buildcraft Objects" version="beta4"
+             url="packs/Monumental/files/1.7.10/ABO-MC1.7.10-BC6.3-beta4.jar"
+             file="ABO-MC1.7.10-BC6.3-beta4.jar"
+             md5="c0ff8c730f8b786082d2ab88b66abc97"
+             download="server"
+             type="mods"
+             depends="BuildCraft"
+             website="http://www.minecraftforum.net/index.php?app=forums&amp;module=forums&amp;section=findpost&amp;pid=8920844"
+             authors="DA3DSOUL, Flow86, blakmajik, Others"
+             description="Extending Buildcraft with additional pipes and machines." />
+
         <mod name="Admin Commands Toolbox" version="0.0.2a"
              url="packs/Monumental/files/1.7.10/AdminCommandsToolbox-0.0.2a_1.7.10.jar"
              file="AdminCommandsToolbox-0.0.2a_1.7.10.jar"
@@ -411,10 +422,10 @@
              authors="Binnie"
              description="Binnie's Mods is an expansion for Forestry which consists of four main mods; Extra Bees, Extra Trees, Botany and Genetics." />
 
-        <mod name="Biomes O' Plenty" version="2.1.0.1057"
-             url="packs/Monumental/files/1.7.10/BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar"
-             file="BiomesOPlenty-1.7.10-2.1.0.1057-universal.jar"
-             md5="79f246f4be944953cb04afa0a90b39c6"
+        <mod name="Biomes O' Plenty" version="2.1.0.1067"
+             url="packs/Monumental/files/1.7.10/BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar"
+             file="BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar"
+             md5="9005e47cce7ac4b107bf7b815b8f6b2a"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1495041-"
@@ -668,10 +679,10 @@
              authors="KzariusRex"
              description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it's colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 
-        <mod name="Equivalent Exchange 3" version="0.2.392"
-             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.392.jar"
-             file="EquivalentExchange3-1.7.10-0.2.392.jar"
-             md5="e5f4ccd3f723212b24f00adc369a5835"
+        <mod name="Equivalent Exchange 3" version="0.2.411"
+             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.411.jar"
+             file="EquivalentExchange3-1.7.10-0.2.411.jar"
+             md5="cb756bb326df2afe8f4441c37fff4e76"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1h/"
@@ -799,10 +810,10 @@
              authors="Micdoodle8, radfast"
              description="Addon for Galacticraft." />
 
-        <mod name="Garden Stuff" version="1.2.3"
-             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.3.jar"
-             file="GardenStuff-1.7.10-1.2.3.jar"
-             md5="468a4df2b46416bbedbe8d4ee8f26f89"
+        <mod name="Garden Stuff" version="1.2.5"
+             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.5.jar"
+             file="GardenStuff-1.7.10-1.2.5.jar"
+             md5="ede440b1c9094986c446eac07f118770"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14"
@@ -1156,10 +1167,10 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.6B"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.6B.jar"
-             file="Mine Trading Cards-1.6B.jar"
-             md5="3f768c47339badbc68b75d018eb5f835"
+        <mod name="Mine Trading Cards" version="1.7.2"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.7.2.jar"
+             file="Mine Trading Cards-1.7.2.jar"
+             md5="831a43cbabdab6d2786562fdda441816"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
@@ -1245,10 +1256,10 @@
              authors="ProfMobius"
              description="Needed for ProfMobius mods." />
 
-        <mod name="ModTweaker 2" version="0.7.b33"
-             url="packs/Monumental/files/1.7.10/ModTweaker 2-0.7.b33.jar"
-             file="ModTweaker 2-0.7.b33.jar"
-             md5="f9cba494da1c2784e7d8717abd46147a"
+        <mod name="ModTweaker 2" version="0.7.b42"
+             url="packs/Monumental/files/1.7.10/ModTweaker 2-0.7.b42.jar"
+             file="ModTweaker 2-0.7.b42.jar"
+             md5="5826d0aeae6792e9ce6e5b51bee52cb2"
              download="server"
              type="mods"
              depends="MineTweaker"
@@ -1653,10 +1664,10 @@
              description="RPGAdv Mod adds 3 types of items. Poles and wallsigns are used to create waypoints. Signs are then places on poles."
              optional="yes" />
 
-        <mod name="Secret Rooms" version="4.7.1.399"
-             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.399.jar"
-             file="secretroomsmod-1.7.10-4.7.1.399.jar"
-             md5="256873234d8ff6a86123d87ce2cf7bc4"
+        <mod name="Secret Rooms" version="4.7.1.404"
+             url="packs/Monumental/files/1.7.10/secretroomsmod-1.7.10-4.7.1.404.jar"
+             file="secretroomsmod-1.7.10-4.7.1.404.jar"
+             md5="de3fc6fef3ac6bb84e67b7f5e69619fe"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/546192-"
@@ -1975,10 +1986,10 @@
              server="no"
              optional="yes" />
 
-        <mod name="WAILA" version="1.5.8a"
-             url="packs/Monumental/files/1.7.10/Waila-1.5.8a_1.7.10.jar"
-             file="Waila-1.5.8a_1.7.10.jar"
-             md5="3643cd6fec8d92fa05851983eb078439"
+        <mod name="WAILA" version="1.5.9"
+             url="packs/Monumental/files/1.7.10/Waila-1.5.9_1.7.10.jar"
+             file="Waila-1.5.9_1.7.10.jar"
+             md5="c469c01c60182e4a0ccd558c84bafed5"
              download="server"
              type="mods"
              depends="NotEnoughItems"
