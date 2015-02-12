@@ -9,7 +9,7 @@
     </pack>
     <messages>
         <install><![CDATA[Make sure you have at least the latest version of Java 7 (64bit) before playing! <br /> If you have any problems/crashes, contact me ASAP! <br /> <br /> (Contact methods are here: <a href="http://www.atlauncher.com/pack/Monumental/">http://www.atlauncher.com/pack/Monumental/</a>) <br /> <br /> If you are creating a server make sure you copy the MineTweaker config folder into the server world folder! <br /> <br /> Support me on Patreon: <a href="http://www.patreon.com/DrummingFish">patreon.com/DrummingFish</a>]]></install>
-        <update><![CDATA[Make sure you've backed up your world before you update! <br /> I'm not responsible for any world loss!]]></update>
+        <update><![CDATA[Make sure you've backed up your world before you update! <br /> I'm not responsible for any world loss that occurs when updating!]]></update>
     </messages>
     <libraries>
         <library url="packs/Monumental/files/ForgeLibs10.13.1.1229/launchwrapper-1.11.jar"
@@ -123,7 +123,7 @@
              website="http://www.minecraftforum.net/topic/909223-"
              donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
              authors="ChickenBones"
-             description="Needed for ChickenBones mods." />
+             description="Needed for ChickenBones mods to work." />
 
         <mod name="ForgeMultipart" version="1.1.1.321"
              url="packs/Monumental/files/1.7.10/ForgeMultipart-1.7.10-1.1.1.321-universal.jar"
@@ -145,7 +145,7 @@
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-8-updated-11-9-2014"
              donation="http://www.patreon.com/azanor"
              authors="Azanor"
-             description="A small addon mod and api that is intended to be used by other mods to add additional inventory slots to a character." />
+             description="A small addon mod and API that is intended to be used by other mods to add additional inventory slots to a character." />
 
         <mod name="bspkrsCore" version="6.15"
              url="packs/Monumental/files/1.7.10/[1.7.10]bspkrsCore-universal-6.15.jar"
