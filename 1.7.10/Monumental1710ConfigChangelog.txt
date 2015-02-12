@@ -20,9 +20,6 @@ Ars Magica 2
 Backpack
 	Big Backpacks can only be crafted by upgrading from a Small Backpack
 
-Biomes O' Plenty
-	Biome size increased from 4 to 6 (equivalent to "Large Biomes" world type)
-
 Blood Magic
 	Mundane Lengthening Catalyst dungeon loot chance reduced from 20 to 15
 	Mundane Power Catalyst dungeon loot chance reduced from 20 to 15
