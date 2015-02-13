@@ -1,7 +1,31 @@
 {
   "version": 1,
   "data": {
+    "netherWall": -24,
+    "netherTower": -23,
+    "npcVillageSmithy": -5,
+    "npcVillageTorch": -10,
+    "netherThrone": -27,
+    "npcVillageWell": -9,
+    "lavaShore": -16,
+    "npcVillageFarmlandSmall": -8,
+    "npcVillageButchersShop": -13,
+    "npcVillageChurch": -14,
+    "netherBridgeEndZ": -21,
+    "npcVillageSmallHouse": -12,
+    "npcVillageLHouse": -6,
+    "npcVillageHut": -11,
+    "netherFortStairs": -26,
+    "netherBridgeZ": -19,
     "npcVillageDoor": -3,
-    "npcVillageTerritory": -2
+    "netherBridgeEndX": -20,
+    "netherBridge": -17,
+    "netherHall": -25,
+    "npcVillageFarmlandLarge": -7,
+    "netherBridgeGate": -22,
+    "lava": -15,
+    "netherBridgeX": -18,
+    "npcVillageTerritory": -2,
+    "npcVillageLibrary": -4
   }
 }
