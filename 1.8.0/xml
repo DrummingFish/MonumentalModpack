@@ -121,6 +121,17 @@
              authors="Eydamos"
              description="Provides the player with multiple, colored backpacks, which each have the space of a normal chest." />
 
+        <mod name="Better Title Screen" version="1.8-1.1a"
+             url="packs/Monumental/files/1.8/BetterTitleScreen-1.8-1.1a.jar"
+             file="BetterTitleScreen-1.8-1.1a.jar"
+             md5="e953ca52a27088d53f5c0f04d7a3e9fc"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/224223"
+             authors="Girafi, Amadornes"
+             description="Better Title Screen is a client-side mod that provides options to customize Minecraft&apos;s title screen."
+             server="no" />
+
         <mod name="Biomes O' Plenty" version="3.0.0.1054"
              url="packs/Monumental/files/1.8/BiomesOPlenty-1.8-3.0.0.1054-universal.jar"
              file="BiomesOPlenty-1.8-3.0.0.1054-universal.jar"
@@ -156,10 +167,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Glass Shards" version="1.0-beta"
-             url="packs/Monumental/files/1.8/glass_shards_mc1.8-1.0-beta.jar"
-             file="glass_shards_mc1.8-1.0-beta.jar"
-             md5="ac46c62b42f38a1cc167620587d181ee"
+        <mod name="Glass Shards" version="1.1.1"
+             url="packs/Monumental/files/1.8/glass_shards_mc1.8-1.1.1.jar"
+             file="glass_shards_mc1.8-1.1.1.jar"
+             md5="18e206c0d2dab15d0b897357a6914227"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
@@ -177,10 +188,10 @@
              authors="FyberOptic"
              description="Adds hopper ducts, which are item transport blocks functionally similar to hoppers, but capable of sending items in any direction." />
 
-        <mod name="Inventory Tweaks" version="1.59-dev-162"
-             url="packs/Monumental/files/1.8/InventoryTweaks-1.59-dev-162.jar"
-             file="InventoryTweaks-1.59-dev-162.jar"
-             md5="df8d6331ba84726fd03efde2b793958e"
+        <mod name="Inventory Tweaks" version="1.59-beta-172"
+             url="packs/Monumental/files/1.8/InventoryTweaks-1.59-beta-172.jar"
+             file="InventoryTweaks-1.59-beta-172.jar"
+             md5="df5638b04390ba57d616e3f6604b9bb8"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1720872-"
@@ -188,17 +199,17 @@
              description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
              server="no" />
 
-        <mod name="Iron Chest" version="6.0.90.747"
-             url="packs/Monumental/files/1.8/ironchest-1.8-6.0.90.747-universal.jar"
-             file="ironchest-1.8-6.0.90.747-universal.jar"
-             md5="09d4bb3fe330c3f9a968876ea50267ac"
+        <mod name="Iron Chest" version="6.0.99.749"
+             url="packs/Monumental/files/1.8/ironchest-1.8-6.0.99.749-universal.jar"
+             file="ironchest-1.8-6.0.99.749-universal.jar"
+             md5="7f2b85cf838e558057bc586be9f32031"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/981855-"
              authors="cpw, progwml6"
              description="New chests with larger sizes, with in-place upgrade items." />
 
-        <mod name="LiteLoader" version="SNAPSHOT-r365"
+        <mod name="LiteLoader" version="SNAPSHOT-r365-b46"
              url="packs/Monumental/files/1.8/liteloader-1.8.jar"
              file="liteloader-1.8.jar"
              md5="1487ad5707fddcb6f1b4bd4c89cd8ceb"
