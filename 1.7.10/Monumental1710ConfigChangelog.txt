@@ -79,9 +79,6 @@ Ender IO
 Ender Storage
 	Disabled vanilla Ender Chest crafting
 
-Factorization
-	Silver generation disabled
-
 Forestry
 	Disabled Clockwork Engine (in NORMAL)
 	Difficulty set to NORMAL
@@ -154,9 +151,6 @@ OpenBlocks
 Powersuit Addons
     Disabled "cheaty" leather recipe
 
-QuarryPlus
-	Increased recipe difficulty from 2 to 5
-
 Thaumcraft
 	Added Thaumonomicon Cheat Sheet
 
@@ -165,7 +159,7 @@ Thaumic Tinkerer
 
 Thermal Expansion
 	All machines allow recipe overwrites
-	"breaker" uses Diamond Pickaxe
+	Block Breaker uses Diamond Pickaxe instead of Invar Pickaxe
 	Pulveriser uses Diamonds instead of Flint
 
 WAILA Harvestability

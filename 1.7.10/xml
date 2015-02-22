@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.0</version>
+        <version>BETA-v2.2.1</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -350,10 +350,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="BdLib" version="1.6.3.48"
-             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.3.48.jar"
-             file="bdlib-mc1710-1.6.3.48.jar"
-             md5="2b2f2fe9ec279c7fa7ebe93faed613cc"
+        <mod name="BdLib" version="1.6.4.49"
+             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.4.49.jar"
+             file="bdlib-mc1710-1.6.4.49.jar"
+             md5="d070b428cedbeaec225f753a96e78e1a"
              download="server"
              type="mods"
              website="https://github.com/bdew/bdlib"
@@ -430,17 +430,6 @@
              authors="Joseph 'Nuchaz' Sinclair"
              description="Adds support for 13 varieties of wood from Natura for 8 of the wooden blocks in BiblioCraft." />
 
-        <!--<mod name="BILLUND" version="1.0.0.B6" 
-            url="packs/Monumental/files/1.7.10/Billund-1.7.X-1.0.0.B6-universal.jar" 
-            file="Billund-1.7.X-1.0.0.B6-universal.jar" 
-            md5="cc301bc8e11e22fa932fc0d5539b79cd" 
-            download="server" 
-            type="mods" 
-            website="http://minecraft.curseforge.com/mc-mods/223258-billund-223258" 
-            donation="http://www.patreon.com/dmillerw" 
-            authors="Daniel Ratcliffe (Dan200), dmillerw" 
-            description="Plastic building blocks for Minecraft!" />-->
-
         <mod name="Binnie's Mods" version="2.0-pre6b"
              url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre6b.jar"
              file="binnie-mods-2.0-pre6b.jar"
@@ -475,10 +464,10 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.3.6"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.3.6.jar"
-             file="buildcraft-6.3.6.jar"
-             md5="ba2522ea98535bf9f96e88cee78964a1"
+        <mod name="BuildCraft" version="6.3.7"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.3.7.jar"
+             file="buildcraft-6.3.7.jar"
+             md5="4ba0b2d9e94463e614195fe1956055de"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -551,10 +540,10 @@
              authors="ChickenBones"
              description="Core library for all ChickenBones mods." />
 
-        <mod name="CoFH Core" version="3.0.0B9-40"
-             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0B9-40.jar"
-             file="CoFHCore-[1.7.10]3.0.0B9-40.jar"
-             md5="41ab7362ab5ee385abfe4979732b90d9"
+        <mod name="CoFH Core" version="3.0.0RC1-181"
+             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC1-181.jar"
+             file="CoFHCore-[1.7.10]3.0.0RC1-181.jar"
+             md5="7ee282275aaccbabac397acb9c0f2133"
              download="server"
              type="mods"
              website="http://teamcofh.com/"
@@ -562,10 +551,10 @@
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Framework required for all Team CoFH mods." />
 
-        <mod name="CoFHLib" version="1.0.0B8-34"
-             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0B8-34.jar"
-             file="CoFHLib-[1.7.10]1.0.0B8-34.jar"
-             md5="0edb8f61c9911c43a75c3fdeb00baa28"
+        <mod name="CoFHLib" version="1.0.0B9-112"
+             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0B9-112.jar"
+             file="CoFHLib-[1.7.10]1.0.0B9-112.jar"
+             md5="a2cde63e65fe60b7f07392c7754d4be0"
              download="server"
              type="mods"
              website="http://www.curse.com/mc-mods/minecraft/220333-cofhlib"
@@ -853,10 +842,10 @@
              authors="jaquadro"
              description="This is a collection of garden-related mods originally based on Modular Flower Pots." />
 
-        <mod name="Gendustry" version="1.4.6.62"
-             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.6.62.jar"
-             file="gendustry-mc1710-1.4.6.62.jar"
-             md5="47dbf26aa0a93379f060fd7747508a14"
+        <mod name="Gendustry" version="1.4.7.64"
+             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.7.64.jar"
+             file="gendustry-mc1710-1.4.7.64.jar"
+             md5="3c907491a40eff5a36f50da25f367999"
              download="server"
              type="mods"
              depends="BdLib, Forestry"
@@ -865,10 +854,10 @@
              authors="BDew"
              description="Advanced apiaries and genetic machines for bees." />
 
-        <mod name="Glass Shards" version="1.1.1"
-             url="packs/Monumental/files/1.7.10/glass_shards-1.1.1.jar"
-             file="glass_shards-1.1.1.jar"
-             md5="0d8cb8dc47571b17c2576be02bcf65b7"
+        <mod name="Glass Shards" version="1.1.2"
+             url="packs/Monumental/files/1.7.10/glass_shards-1.1.2.jar"
+             file="glass_shards-1.1.2.jar"
+             md5="cc25a755b67f54175a67fef5a0d814d9"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
@@ -910,10 +899,10 @@
              description="This mod tries to guilt players about the helpless creatures that they’ve killed by leaving a solemn reminder floating around their heads."
              optional="yes" />
 
-        <mod name="Hardcore Ender Expansion" version="1.7"
-             url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
-             file="HardcoreEnderExpansion  MC-1.7.10  v1.7.jar"
-             md5="a4c883d9376aac8ab830e917023e6ab3"
+        <mod name="Hardcore Ender Expansion" version="1.7.1"
+             url="packs/Monumental/files/1.7.10/HardcoreEnderExpansion  MC-1.7.10  v1.7.1.jar"
+             file="HardcoreEnderExpansion  MC-1.7.10  v1.7.1.jar"
+             md5="a17e948a5cf984479f154386e4f810fe"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1066990-hardcore-ender-expansion-v133-former-hardcore-enderdragon-mod-43000-dls/"
@@ -1035,10 +1024,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.681-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.681-experimental.jar"
-             file="industrialcraft-2-2.2.681-experimental.jar"
-             md5="3ecf762e7b2bed8ffc6d6099a88b8973"
+        <mod name="IndustrialCraft 2" version="2.2.682-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.682-experimental.jar"
+             file="industrialcraft-2-2.2.682-experimental.jar"
+             md5="0e683f0e4e991b6622af56daede3c363"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1143,10 +1132,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.100"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.100.jar"
-             file="logisticspipes-0.8.3.100.jar"
-             md5="97277f429136ed1b292b7a15e9e3dcac"
+        <mod name="Logistics Pipes" version="0.8.3.101"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.101.jar"
+             file="logisticspipes-0.8.3.101.jar"
+             md5="fcff13177ec3aee0905bdefd1f51aa6b"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1222,10 +1211,10 @@
              authors="pixlepix, jakimfett, MFernflower"
              description="Chemical industry in Minecraft!" />
 
-        <mod name="MineFactory Reloaded" version="2.8.0RC6-5"
-             url="packs/Monumental/files/1.7.10/MineFactoryReloaded-[1.7.10]2.8.0RC6-5.jar"
-             file="MineFactoryReloaded-[1.7.10]2.8.0RC6-5.jar"
-             md5="ea0f35521ad2ffc9aab4c98383d7b74f"
+        <mod name="MineFactory Reloaded" version="2.8.0RC7-71"
+             url="packs/Monumental/files/1.7.10/MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar"
+             file="MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar"
+             md5="c8a20a297e4d197154576cb238f3081a"
              download="server"
              type="mods"
              depends="CoFH Core"
@@ -1616,18 +1605,6 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="RadixCore" version="1.3.4"
-             url="packs/Monumental/files/1.7.10/RadixCore-1.7.10-1.3.4-universal.jar"
-             file="RadixCore-1.7.10-1.3.4-universal.jar"
-             md5="a134077e19a065fbeae7135024e31085"
-             download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/topic/926757-16x152147-sspsmp-minecraft-comes-alive-v354-26-languages-1500000-downloads/"
-             donation="http://www.patreon.com/user?u=320314"
-             authors="WildBamaBoy, SheWolfDeadly, mezzodrinker, The_Nanobots"
-             description="An API needed for Minecraft Comes Alive."
-             optional="yes" />
-
         <mod name="Railcraft" version="9.5.0.0"
              url="packs/Monumental/files/1.7.10/Railcraft_1.7.10-9.5.0.0.jar"
              file="Railcraft_1.7.10-9.5.0.0.jar"
@@ -1639,10 +1616,10 @@
              authors="CovertJaguar"
              description="Redefine your rails." />
 
-        <mod name="Redstone Arsenal" version="1.1.0RC1-19"
-             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC1-19.jar"
-             file="RedstoneArsenal-[1.7.10]1.1.0RC1-19.jar"
-             md5="cd256ba8d098f813346ef152b1eaa107"
+        <mod name="Redstone Arsenal" version="1.1.0RC2-43"
+             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar"
+             file="RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar"
+             md5="fcb1c96a555ed00d7871eef1fd65d537"
              download="server"
              type="mods"
              depends="Thermal Expansion"
@@ -1698,18 +1675,6 @@
              authors="FatherToast"
              description="In short, this mod introduces variants to your default Minecraft mods, such as creepers with fiery explosions, skeletons that shoot poisoned arrows, and zombies that throw other mobs at you. Not only that, but it allows you adjust all vanilla spawn rates and even make jockeys more common!" />
 
-        <mod name="Statues" version="2.1.4"
-             url="packs/Monumental/files/1.7.10/statues-1.7.10-2.1.4.jar"
-             file="statues-1.7.10-2.1.4.jar"
-             md5="083a94e77bd69a0ac454771becb4c7e0"
-             download="server"
-             type="mods"
-             depends="AsieLib"
-             website="http://mc.shinonome.ch/doku.php?id=wiki:statues"
-             donation="http://asie.pl/donate/"
-             authors="AUTOMATIC_MAIDEN, Asie"
-             description="Create statues out of various blocks." />
-
         <mod name="StatusEffectHUD" version="1.27"
              url="packs/Monumental/files/1.7.10/[1.7.10]StatusEffectHUD-client-1.27.jar"
              file="[1.7.10]StatusEffectHUD-client-1.27.jar"
@@ -1749,10 +1714,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Tails" version="1.3.0"
-             url="packs/Monumental/files/1.7.10/Tails-1.7.10-1.3.0.jar"
-             file="Tails-1.7.10-1.3.0.jar"
-             md5="aa0e251d018c2a61638c5946de9b1a69"
+        <mod name="Tails" version="1.3.1"
+             url="packs/Monumental/files/1.7.10/Tails-1.7.10-1.3.1.jar"
+             file="Tails-1.7.10-1.3.1.jar"
+             md5="aca30673e90391efab01007f0d98deae"
              download="server"
              type="mods"
              depends="FoxLib"
@@ -1819,10 +1784,10 @@
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." />
 
-        <mod name="Thermal Expansion" version="4.0.0B8-23"
-             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0B8-23.jar"
-             file="ThermalExpansion-[1.7.10]4.0.0B8-23.jar"
-             md5="a4c4a01d1300dc00385b25dce488cca7"
+        <mod name="Thermal Expansion" version="4.0.0RC1-119"
+             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC1-119.jar"
+             file="ThermalExpansion-[1.7.10]4.0.0RC1-119.jar"
+             md5="1246bf18a206f33daf0ea2a703001fc4"
              download="server"
              type="mods"
              depends="CoFH Core, Thermal Foundation"
@@ -1831,10 +1796,10 @@
              authors="KingLemmingCoFH, Cynycal, ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" />
 
-        <mod name="Thermal Foundation" version="1.0.0RC1-13"
-             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC1-13.jar"
-             file="ThermalFoundation-[1.7.10]1.0.0RC1-13.jar"
-             md5="f9cd23a62698cb66eaf088128cd48f28"
+        <mod name="Thermal Foundation" version="1.0.0RC2-53"
+             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC2-53.jar"
+             file="ThermalFoundation-[1.7.10]1.0.0RC2-53.jar"
+             md5="7737b06d581c31f241ae984662714390"
              download="server"
              type="mods"
              depends="CoFH Core"
@@ -1949,10 +1914,10 @@
              description="A mod to help mine veins of ores by mining blocks of the same type in a chain reaction, giving you the blocks at the end. It is inspired by Connected Destruction by bspkrs."
              optional="yes" />
 
-        <mod name="VeinMiner Mod Integration" version="0.4.1.4"
-             url="packs/Monumental/files/1.7.10/veinminermodintegration-1.7.10-0.4.1.4.jar"
-             file="veinminermodintegration-1.7.10-0.4.1.4.jar"
-             md5="dd965993e03402b149a33e6f522b8cf0"
+        <mod name="VeinMiner Mod Integration" version="0.4.2"
+             url="packs/Monumental/files/1.7.10/veinminermodintegration-1.7.10-0.4.2.unknown.jar"
+             file="veinminermodintegration-1.7.10-0.4.2.unknown.jar"
+             md5="31d014551d53b7c309390978d35f9b19"
              download="server"
              type="mods"
              depends="Vein Miner"
