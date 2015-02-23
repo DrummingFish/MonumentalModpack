@@ -540,10 +540,10 @@
              authors="ChickenBones"
              description="Core library for all ChickenBones mods." />
 
-        <mod name="CoFH Core" version="3.0.0RC1-181"
-             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC1-181.jar"
-             file="CoFHCore-[1.7.10]3.0.0RC1-181.jar"
-             md5="7ee282275aaccbabac397acb9c0f2133"
+        <mod name="CoFH Core" version="3.0.0RC2-195"
+             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC2-195.jar"
+             file="CoFHCore-[1.7.10]3.0.0RC2-195.jar"
+             md5="043f4620a7d9819b9f750c3f69207338"
              download="server"
              type="mods"
              website="http://teamcofh.com/"
@@ -551,10 +551,10 @@
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Framework required for all Team CoFH mods." />
 
-        <mod name="CoFHLib" version="1.0.0B9-112"
-             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0B9-112.jar"
-             file="CoFHLib-[1.7.10]1.0.0B9-112.jar"
-             md5="a2cde63e65fe60b7f07392c7754d4be0"
+        <mod name="CoFHLib" version="1.0.0B9-118"
+             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0B9-118.jar"
+             file="CoFHLib-[1.7.10]1.0.0B9-118.jar"
+             md5="9f4f5d77f7caf089a6e600e22d312179"
              download="server"
              type="mods"
              website="http://www.curse.com/mc-mods/minecraft/220333-cofhlib"
@@ -608,18 +608,6 @@
              description="Displays the damage you inflict on creatures, as well as current health, name and potion effects."
              optional="yes"
              server="no" />
-
-        <mod name="Deadly World" version="1.0.2"
-             url="packs/Monumental/files/1.7.10/DeadlyWorld-1.7.10-1.0.2.jar"
-             file="DeadlyWorld-1.7.10-1.0.2.jar"
-             md5="b68b71e242776daa8a67c75ef7e94feb"
-             download="server"
-             type="mods"
-             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-forge-father-toasts-mods-special-mobs-mob"
-             donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=RXW6LWC2KND94&amp;lc=US&amp;currency_code=USD&amp;bn=PP-DonationsBF:btn_donate_LG.gif:NonHosted"
-             authors="FatherToast"
-             description="This mod adds a few world generation features that make living more difficult and interesting!"
-             optional="yes" />
 
         <mod name="DecoCraft" version="1.11"
              url="packs/Monumental/files/1.7.10/Decocraft-v1.11_1.7.10.jar"
@@ -1265,10 +1253,10 @@
              authors="ProfMobius"
              description="Needed for ProfMobius mods." />
 
-        <mod name="ModTweaker 2" version="0.7.b42"
-             url="packs/Monumental/files/1.7.10/ModTweaker 2-0.7.b42.jar"
-             file="ModTweaker 2-0.7.b42.jar"
-             md5="5826d0aeae6792e9ce6e5b51bee52cb2"
+        <mod name="ModTweaker 2" version="0.7.1"
+             url="packs/Monumental/files/1.7.10/ModTweaker2-1.7.X-0.7.1.jar"
+             file="ModTweaker2-1.7.X-0.7.1.jar"
+             md5="4bb9bf6dee460c586a72721decf63c58"
              download="server"
              type="mods"
              depends="MineTweaker"
@@ -1784,10 +1772,10 @@
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." />
 
-        <mod name="Thermal Expansion" version="4.0.0RC1-119"
-             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC1-119.jar"
-             file="ThermalExpansion-[1.7.10]4.0.0RC1-119.jar"
-             md5="1246bf18a206f33daf0ea2a703001fc4"
+        <mod name="Thermal Expansion" version="4.0.0RC2-129"
+             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
+             file="ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
+             md5="877b0306b2be5fa51652ea721c9f2a4b"
              download="server"
              type="mods"
              depends="CoFH Core, Thermal Foundation"
@@ -1796,10 +1784,10 @@
              authors="KingLemmingCoFH, Cynycal, ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" />
 
-        <mod name="Thermal Foundation" version="1.0.0RC2-53"
-             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC2-53.jar"
-             file="ThermalFoundation-[1.7.10]1.0.0RC2-53.jar"
-             md5="7737b06d581c31f241ae984662714390"
+        <mod name="Thermal Foundation" version="1.0.0RC3-56"
+             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC3-56.jar"
+             file="ThermalFoundation-[1.7.10]1.0.0RC3-56.jar"
+             md5="4ccfe39e36b52271d4019ca6c6be3897"
              download="server"
              type="mods"
              depends="CoFH Core"
@@ -1903,10 +1891,10 @@
              authors="immibis"
              description="A collection of blocks that are useful with BuildCraft or RedPower." />
 
-        <mod name="Vein Miner" version="0.23.0.50"
-             url="packs/Monumental/files/1.7.10/VeinMiner-1.7.10_0.23.0.50.jar"
-             file="VeinMiner-1.7.10_0.23.0.50.jar"
-             md5="4b9d422bd0578ddad6d60328c2567e85"
+        <mod name="Vein Miner" version="0.26.0"
+             url="packs/Monumental/files/1.7.10/VeinMiner-1.7.10_0.26.0.unknown.jar"
+             file="VeinMiner-1.7.10_0.26.0.unknown.jar"
+             md5="b649dcd052afbb89f89a3060a2ae8d70"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2033580-"
