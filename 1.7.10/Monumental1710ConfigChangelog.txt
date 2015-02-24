@@ -161,6 +161,9 @@ Thermal Expansion
 	All machines allow recipe overwrites
 	Block Breaker uses Diamond Pickaxe instead of Invar Pickaxe
 	Pulveriser uses Diamonds instead of Flint
+	
+VeinMiner
+    Added tools to valid tools list
 
 WAILA Harvestability
 	All extra info viewed on holding shift

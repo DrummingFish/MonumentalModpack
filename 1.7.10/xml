@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.2</version>
+        <version>BETA-v2.2.3</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -621,17 +621,6 @@
              description="Decorate your world with props!"
              optional="yes" />
 
-        <mod name="Dual Hotbars" version="1.6"
-             url="packs/Monumental/files/1.7.10/dualhotbar-1.7.10-1.6.jar"
-             file="dualhotbar-1.7.10-1.6.jar"
-             md5="4cbc2a08d150fff703825c52fc072945"
-             download="server"
-             type="mods"
-             website="http://minecraft.curseforge.com/mc-mods/223272-dual-hotbar"
-             authors="RebelKeith"
-             description="This mod gives you a 18 slot hot bar."
-             optional="yes" />
-
         <mod name="Emotes" version="1.0.1"
              url="packs/Monumental/files/1.7.10/Emotes 1.0.1.jar"
              file="Emotes 1.0.1.jar"
@@ -1012,10 +1001,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.682-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.682-experimental.jar"
-             file="industrialcraft-2-2.2.682-experimental.jar"
-             md5="0e683f0e4e991b6622af56daede3c363"
+        <mod name="IndustrialCraft 2" version="2.2.683-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.683-experimental.jar"
+             file="industrialcraft-2-2.2.683-experimental.jar"
+             md5="9154105e75940d19811b071a21a0e076"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1120,10 +1109,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.101"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.101.jar"
-             file="logisticspipes-0.8.3.101.jar"
-             md5="fcff13177ec3aee0905bdefd1f51aa6b"
+        <mod name="Logistics Pipes" version="0.8.3.103"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.103.jar"
+             file="logisticspipes-0.8.3.103.jar"
+             md5="2adaa2fca0b086b427f9187c08fabd6f"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1177,10 +1166,10 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.7.4"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.7.4.jar"
-             file="Mine Trading Cards-1.7.4.jar"
-             md5="c507666e9f80f9123df74a660b09b995"
+        <mod name="Mine Trading Cards" version="1.7.5"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.7.5.jar"
+             file="Mine Trading Cards-1.7.5.jar"
+             md5="06dc084d4bdd99f7bac66e58ead2f36c"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
@@ -1772,6 +1761,16 @@
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." />
 
+        <mod name="Thermal Dynamics" version="1.0.0RC2-77"
+             url="packs/Monumental/files/1.7.10/ThermalDynamics-[1.7.10]1.0.0RC2-77.jar"
+             file="ThermalDynamics-[1.7.10]1.0.0RC2-77.jar"
+             md5="46ae5176f900560fc3ef4e6f50925fec"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics"
+             authors="RWTema, Team CoFH"
+             description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" />
+
         <mod name="Thermal Expansion" version="4.0.0RC2-129"
              url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
              file="ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
@@ -1870,10 +1869,10 @@
              authors="ChickenBones"
              description="Translocates stuff!" />
 
-        <mod name="Traveller's Gear" version="1.15.3"
-             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.15.3.jar"
-             file="TravellersGear-1.7.10-1.15.3.jar"
-             md5="700977dddd0ae7770877a4861c46103a"
+        <mod name="Traveller's Gear" version="1.15.4"
+             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.15.4.jar"
+             file="TravellersGear-1.7.10-1.15.4.jar"
+             md5="7519ef61ef2114ebfd50bab118588075"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224440-travellers-gear"
