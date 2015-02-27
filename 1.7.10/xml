@@ -1995,7 +1995,7 @@
              description="FastCraft is a small mod which improves the client and server performance significantly without any game play changes." />
 
         <mod name="Mystcraft" version="0.11.0.00"
-             url="http://binarymage.com/mystcraft/publish/mystcraft-1.7.10-0.11.0.00.jar"
+             url="http://minecraft.curseforge.com/mc-mods/224599-mystcraft/files/2216737"
              file="mystcraft-1.7.10-0.11.0.00.jar"
              md5="e82e7aab36874e1d789c69c2ecf947c5"
              download="browser"
