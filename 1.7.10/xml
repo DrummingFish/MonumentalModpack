@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.4</version>
+        <version>BETA-v2.2.4a</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -464,10 +464,10 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.4.1"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.4.1.jar"
-             file="buildcraft-6.4.1.jar"
-             md5="53fd54461f429ceeb989677260da099a"
+        <mod name="BuildCraft" version="6.3.7"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.3.7.jar"
+             file="buildcraft-6.3.7.jar"
+             md5="4ba0b2d9e94463e614195fe1956055de"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -475,10 +475,10 @@
              authors="asie, SpaceToad, BuildCraft Team"
              description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
-        <mod name="BuildCraft Compat" version="6.4.0"
-             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.4.0.jar"
-             file="buildcraft-compat-6.4.0.jar"
-             md5="fe0e3f13155063f0706f71c0e1855c08"
+        <mod name="BuildCraft Compat" version="6.3.1"
+             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.3.1.jar"
+             file="buildcraft-compat-6.3.1.jar"
+             md5="c01b9f29242e02b9a8e2d40d644f80a3"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
