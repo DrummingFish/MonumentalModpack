@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.3</version>
+        <version>BETA-v2.2.4</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -125,10 +125,10 @@
              authors="ChickenBones"
              description="Needed for ChickenBones mods to work." />
 
-        <mod name="ForgeMultipart" version="1.1.1.322"
-             url="packs/Monumental/files/1.7.10/ForgeMultipart-1.7.10-1.1.1.322-universal.jar"
-             file="ForgeMultipart-1.7.10-1.1.1.322-universal.jar"
-             md5="06a66df9f68f891ae205661b74538ecc"
+        <mod name="ForgeMultipart" version="1.1.1.323"
+             url="packs/Monumental/files/1.7.10/ForgeMultipart-1.7.10-1.1.1.323-universal.jar"
+             file="ForgeMultipart-1.7.10-1.1.1.323-universal.jar"
+             md5="b630ec3e4daaf166364800619aca7a9b"
              download="server"
              type="dependency"
              website="https://github.com/Chicken-Bones/ForgeMultipart"
@@ -200,10 +200,10 @@
              description="This library is a pure Java project for working with Ogg, Vorbis, FLAC, Opus, Speex and Theora files." />
 
         <!-- Main Mods (w/ Permission) -->
-        <mod name="Additional Buildcraft Objects" version="release2.1"
-             url="packs/Monumental/files/1.7.10/ABO-MC1.7.10-BC6.3-release2.1.jar"
-             file="ABO-MC1.7.10-BC6.3-release2.1.jar"
-             md5="c3cbd7e2a48f15960709941c28e094c8"
+        <mod name="Additional Buildcraft Objects" version="release2.2"
+             url="packs/Monumental/files/1.7.10/ABO-MC1.7.10-BC6.3-release2.2.jar"
+             file="ABO-MC1.7.10-BC6.3-release2.2.jar"
+             md5="ed895b12d70b2e57adab75935ccad91b"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -350,10 +350,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="BdLib" version="1.6.4.49"
-             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.4.49.jar"
-             file="bdlib-mc1710-1.6.4.49.jar"
-             md5="d070b428cedbeaec225f753a96e78e1a"
+        <mod name="BdLib" version="1.6.5.52"
+             url="packs/Monumental/files/1.7.10/bdlib-mc1710-1.6.5.52.jar"
+             file="bdlib-mc1710-1.6.5.52.jar"
+             md5="fc29a423f442aeb93dc22b51b6cf023d"
              download="server"
              type="mods"
              website="https://github.com/bdew/bdlib"
@@ -430,10 +430,10 @@
              authors="Joseph 'Nuchaz' Sinclair"
              description="Adds support for 13 varieties of wood from Natura for 8 of the wooden blocks in BiblioCraft." />
 
-        <mod name="Binnie's Mods" version="2.0-pre6b"
-             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre6b.jar"
-             file="binnie-mods-2.0-pre6b.jar"
-             md5="80e34e6f24e563961d8ebfd4dda11987"
+        <mod name="Binnie's Mods" version="2.0-pre7"
+             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre7.jar"
+             file="binnie-mods-2.0-pre7.jar"
+             md5="2b158fbeed086bae31281e684c6b591c"
              download="server"
              type="mods"
              depends="Forestry"
@@ -464,10 +464,10 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.3.7"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.3.7.jar"
-             file="buildcraft-6.3.7.jar"
-             md5="4ba0b2d9e94463e614195fe1956055de"
+        <mod name="BuildCraft" version="6.4.1"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.4.1.jar"
+             file="buildcraft-6.4.1.jar"
+             md5="53fd54461f429ceeb989677260da099a"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -475,10 +475,10 @@
              authors="asie, SpaceToad, BuildCraft Team"
              description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
-        <mod name="BuildCraft Compat" version="6.3.1"
-             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.3.1.jar"
-             file="buildcraft-compat-6.3.1.jar"
-             md5="c01b9f29242e02b9a8e2d40d644f80a3"
+        <mod name="BuildCraft Compat" version="6.4.0"
+             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.4.0.jar"
+             file="buildcraft-compat-6.4.0.jar"
+             md5="fe0e3f13155063f0706f71c0e1855c08"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -688,21 +688,22 @@
              authors="KzariusRex"
              description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it's colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
 
-        <mod name="Equivalent Exchange 3" version="0.2.430"
-             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.430.jar"
-             file="EquivalentExchange3-1.7.10-0.2.430.jar"
-             md5="0ac96031f19421108fc4b18a53a076d5"
+        <mod name="Equivalent Exchange 3" version="0.2.433"
+             url="packs/Monumental/files/1.7.10/EquivalentExchange3-1.7.10-0.2.433.jar"
+             file="EquivalentExchange3-1.7.10-0.2.433.jar"
+             md5="35ebb26f92c5d516050142daaf731757"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1h/"
              donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=XMS4GNHLGURU8&amp;lc=CA&amp;item_name=Equivalent%20Exchange&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
              authors="Pahimar, x3n0ph0b3"
-             description="Adds transmutation. Transmute all the things!" />
+             description="Adds transmutation. Transmute all the things!"
+             optional="yes" />
 
-        <mod name="Extra Utilities" version="1.2.1"
-             url="packs/Monumental/files/1.7.10/extrautilities-1.2.1.jar"
-             file="extrautilities-1.2.1.jar"
-             md5="497fcba9260b6a8440fda7045ca98b4a"
+        <mod name="Extra Utilities" version="1.2.2"
+             url="packs/Monumental/files/1.7.10/extrautilities-1.2.2.jar"
+             file="extrautilities-1.2.2.jar"
+             md5="b577a57f426293d42393d6e5b030bedf"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1776056-"
@@ -752,10 +753,10 @@
              authors="Myrathi"
              description="FlatSigns provides new sign functionality allowing signs to be placed flat on the ceiling or the floor (via sneak click). You can also make sponges to edit existing signs." />
 
-        <mod name="Forbidden Magic" version="0.552"
-             url="packs/Monumental/files/1.7.10/Forbidden Magic-1.7.10-0.552.jar"
-             file="Forbidden Magic-1.7.10-0.552.jar"
-             md5="7c15839f5ac9e6d871d39298d91125e5"
+        <mod name="Forbidden Magic" version="0.561"
+             url="packs/Monumental/files/1.7.10/Forbidden Magic-1.7.10-0.561.jar"
+             file="Forbidden Magic-1.7.10-0.561.jar"
+             md5="03a74aad05ca39590a570b2223716255"
              download="server"
              type="mods"
              depends="Thaumcraft"
@@ -809,20 +810,20 @@
              authors="Micdoodle8, radfast"
              description="Addon for Galacticraft." />
 
-        <mod name="Garden Stuff" version="1.2.7"
-             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.2.7.jar"
-             file="GardenStuff-1.7.10-1.2.7.jar"
-             md5="a78a0d9e0659c1d63f2fbda9a08c4a43"
+        <mod name="Garden Stuff" version="1.3.1"
+             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.3.1.jar"
+             file="GardenStuff-1.7.10-1.3.1.jar"
+             md5="2e659a94c26eaf2db147439d3b88296a"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14"
              authors="jaquadro"
              description="This is a collection of garden-related mods originally based on Modular Flower Pots." />
 
-        <mod name="Gendustry" version="1.4.7.64"
-             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.7.64.jar"
-             file="gendustry-mc1710-1.4.7.64.jar"
-             md5="3c907491a40eff5a36f50da25f367999"
+        <mod name="Gendustry" version="1.4.8.65"
+             url="packs/Monumental/files/1.7.10/gendustry-mc1710-1.4.8.65.jar"
+             file="gendustry-mc1710-1.4.8.65.jar"
+             md5="929d637df6ab293dc597d10d1204705e"
              download="server"
              type="mods"
              depends="BdLib, Forestry"
@@ -1001,10 +1002,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.683-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.683-experimental.jar"
-             file="industrialcraft-2-2.2.683-experimental.jar"
-             md5="9154105e75940d19811b071a21a0e076"
+        <mod name="IndustrialCraft 2" version="2.2.684-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.684-experimental.jar"
+             file="industrialcraft-2-2.2.684-experimental.jar"
+             md5="08aff20b160aba6254471b2044885269"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1109,10 +1110,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.103"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.103.jar"
-             file="logisticspipes-0.8.3.103.jar"
-             md5="2adaa2fca0b086b427f9187c08fabd6f"
+        <mod name="Logistics Pipes" version="0.8.3.104"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.104.jar"
+             file="logisticspipes-0.8.3.104.jar"
+             md5="aabafc2c3eff53a5ff10a9272b6be407"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1121,10 +1122,10 @@
              authors="RS485, LP Team"
              description="Logistics Pipes is an extensive overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stock-keeping and easier automated crafting." />
 
-        <mod name="MachineMuse's Modular Powersuits" version="0.11.0.6-QMX"
-             url="packs/Monumental/files/1.7.10/ModularPowersuits-0.11.0.6-QMX.jar"
-             file="ModularPowersuits-0.11.0.6-QMX.jar"
-             md5="eb3ebc933506de12cda9c58afaf7c240"
+        <mod name="MachineMuse's Modular Powersuits" version="0.11.0.7-QMX"
+             url="packs/Monumental/files/1.7.10/ModularPowersuits-0.11.0.7-QMX.jar"
+             file="ModularPowersuits-0.11.0.7-QMX.jar"
+             md5="8b0e0f53bc24ff81917f23b37627cea1"
              download="server"
              type="mods"
              depends="Numina, Slick-Util, VorbisJava"
@@ -1166,12 +1167,13 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
-        <mod name="Mine Trading Cards" version="1.7.5"
-             url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.7.5.jar"
-             file="Mine Trading Cards-1.7.5.jar"
-             md5="06dc084d4bdd99f7bac66e58ead2f36c"
+        <mod name="Mine Trading Cards" version="1.7.6"
+             url="packs/Monumental/files/1.7.10/Mine Trading Cards 1.7.6.zip"
+             file="Mine Trading Cards 1.7.6.zip"
+             md5="8cda33c740b1c367d05a7c6e5d4591f7"
              download="server"
-             type="mods"
+             type="extract"
+             extractto="root"
              website="http://minecraft.curseforge.com/mc-mods/226562-mine-trading-cards"
              authors="Tradeworld"
              description="Adds trading cards."
@@ -1219,6 +1221,18 @@
              website="http://minetweaker3.powerofbytes.com/"
              authors="Stan Hebben"
              description="Modpack and server tool enabling the addition and removal of recipes." />
+
+        <mod name="MineTweaker Monumental Scripts" version="0.1.0"
+             url="packs/Monumental/files/1.7.10/scripts0.1.0.zip"
+             file="scripts0.1.0.zip"
+             md5="f988b298a861e171a98d439c9d0134a1"
+             download="server"
+             type="extract"
+             extractto="root"
+             website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mod-packs/1293414-beta-v2-2-3-monumental-modpack-available-on"
+             donation="http://www.patreon.com/DrummingFish"
+             authors="DrummingFish"
+             description="MineTweaker scripts created for the Monumental Modpack." />
 
         <mod name="MoarSigns" version="1.1.4"
              url="packs/Monumental/files/1.7.10/MoarSigns-1.7.10-1.1.4.jar"
@@ -1371,10 +1385,10 @@
              authors="Shedar, xbony2"
              description="Nuclear Control, an Industrial Craft 2 addon that allows you to build efficient monitoring and notification systems for your nuclear reactors. Also you can use Howler Alarms and Industrial Alarms in any case when you want industrial-style notification/alarming systems." />
 
-        <mod name="Numina" version="0.4.0.6-QMX"
-             url="packs/Monumental/files/1.7.10/Numina-0.4.0.6-QMX.jar"
-             file="Numina-0.4.0.6-QMX.jar"
-             md5="0747f4c567e1575fbfb75561611505e6"
+        <mod name="Numina" version="0.4.0.7-QMX"
+             url="packs/Monumental/files/1.7.10/Numina-0.4.0.7-QMX.jar"
+             file="Numina-0.4.0.7-QMX.jar"
+             md5="decbceb3b91200eb825ff01fefef2cb6"
              download="server"
              type="mods"
              website="http://machinemuse.net/"
@@ -1499,10 +1513,10 @@
              description="Inspired by Portal 2, this mod brings the Ping tool into Minecraft."
              optional="yes" />
 
-        <mod name="Powersuit Addons" version="0.11.0.6-QMX"
-             url="packs/Monumental/files/1.7.10/ModularPowersuitsAddons-0.11.0.6-QMX.jar"
-             file="ModularPowersuitsAddons-0.11.0.6-QMX.jar"
-             md5="8f39b9db33ab5b0128a7c1dee4e3bf06"
+        <mod name="Powersuit Addons" version="0.11.0.7-QMX"
+             url="packs/Monumental/files/1.7.10/ModularPowersuitsAddons-0.11.0.7-QMX.jar"
+             file="ModularPowersuitsAddons-0.11.0.7-QMX.jar"
+             md5="f0f5495b0ba40bfb308293913fb9e35a"
              download="server"
              type="mods"
              depends="MachineMuse's Modular Powersuits"
@@ -1869,10 +1883,10 @@
              authors="ChickenBones"
              description="Translocates stuff!" />
 
-        <mod name="Traveller's Gear" version="1.15.4"
-             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.15.4.jar"
-             file="TravellersGear-1.7.10-1.15.4.jar"
-             md5="7519ef61ef2114ebfd50bab118588075"
+        <mod name="Traveller's Gear" version="1.15.5"
+             url="packs/Monumental/files/1.7.10/TravellersGear-1.7.10-1.15.5.jar"
+             file="TravellersGear-1.7.10-1.15.5.jar"
+             md5="e7093839926f53b768159c820d74df8b"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/224440-travellers-gear"
