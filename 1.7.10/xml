@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.4a</version>
+        <version>BETA-v2.2.5</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -361,17 +361,6 @@
              authors="BDew"
              description="Library for BDew mods." />
 
-        <mod name="Better Title Screen" version="1.1"
-             url="packs/Monumental/files/1.7.10/BetterTitleScreen-1.7.10-1.1.jar"
-             file="BetterTitleScreen-1.7.10-1.1.jar"
-             md5="0a967e8863ea6a1ab4ac5b7cdabb193a"
-             download="server"
-             type="mods"
-             website="https://github.com/GirafiStudios/BetterTitleScreen"
-             authors="Girafi, Amadornes"
-             description="Better Title Screen is a client-side mod that provides options to customize Minecraft&apos;s title screen."
-             server="no" />
-
         <mod name="BetterStorage" version="0.12.0.124"
              url="packs/Monumental/files/1.7.10/BetterStorage-1.7.10-0.12.0.124.jar"
              file="BetterStorage-1.7.10-0.12.0.124.jar"
@@ -596,6 +585,17 @@
              description="Allows you to Craft Heraldry in your game."
              optional="yes" />
 
+        <mod name="Custom Main Menu" version="1.2"
+             url="packs/Monumental/files/1.7.10/CustomMainMenu-MC1.7.10-1.2.jar"
+             file="CustomMainMenu-MC1.7.10-1.2.jar"
+             md5="99d326266652586ef94d5384d502aa48"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu"
+             authors="lumien"
+             description="Allows you to edit the mainmenu using json"
+             server="no" />
+
         <mod name="Damage Indicators" version="3.2.0"
              url="packs/Monumental/files/1.7.10/[1.7.10]DamageIndicatorsMod-3.2.0.jar"
              file="[1.7.10]DamageIndicatorsMod-3.2.0.jar"
@@ -810,10 +810,10 @@
              authors="Micdoodle8, radfast"
              description="Addon for Galacticraft." />
 
-        <mod name="Garden Stuff" version="1.3.1"
-             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.3.1.jar"
-             file="GardenStuff-1.7.10-1.3.1.jar"
-             md5="2e659a94c26eaf2db147439d3b88296a"
+        <mod name="Garden Stuff" version="1.4.0"
+             url="packs/Monumental/files/1.7.10/GardenStuff-1.7.10-1.4.0.jar"
+             file="GardenStuff-1.7.10-1.4.0.jar"
+             md5="949a42bbc164291d5323aa1ec3b7b782"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14"
@@ -832,10 +832,10 @@
              authors="BDew"
              description="Advanced apiaries and genetic machines for bees." />
 
-        <mod name="Glass Shards" version="1.1.2"
-             url="packs/Monumental/files/1.7.10/glass_shards-1.1.2.jar"
-             file="glass_shards-1.1.2.jar"
-             md5="cc25a755b67f54175a67fef5a0d814d9"
+        <mod name="Glass Shards" version="1.2"
+             url="packs/Monumental/files/1.7.10/glass_shards-1.2.jar"
+             file="glass_shards-1.2.jar"
+             md5="1ebffe38019fad2428a563dbc09e91bc"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
@@ -1002,10 +1002,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.684-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.684-experimental.jar"
-             file="industrialcraft-2-2.2.684-experimental.jar"
-             md5="08aff20b160aba6254471b2044885269"
+        <mod name="IndustrialCraft 2" version="2.2.687-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.687-experimental.jar"
+             file="industrialcraft-2-2.2.687-experimental.jar"
+             md5="ef0e42e015a57ae3c724ba52cbeddf08"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1110,10 +1110,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.104"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.104.jar"
-             file="logisticspipes-0.8.3.104.jar"
-             md5="aabafc2c3eff53a5ff10a9272b6be407"
+        <mod name="Logistics Pipes" version="0.8.3.108"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.108.jar"
+             file="logisticspipes-0.8.3.108.jar"
+             md5="2e1a59117ec704ee46a782db1530e532"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1765,10 +1765,10 @@
              authors="pixlepix, nekosune"
              description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Research that comes from this mod are prefixed by [TT]." />
 
-        <mod name="The Twilight Forest" version="2.3.3"
-             url="packs/Monumental/files/1.7.10/twilightforest-1.7.10-2.3.3.jar"
-             file="twilightforest-1.7.10-2.3.3.jar"
-             md5="bc461b1af4db2af096bf4b76d24bb5e7"
+        <mod name="The Twilight Forest" version="2.3.4"
+             url="packs/Monumental/files/1.7.10/twilightforest-1.7.10-2.3.4.jar"
+             file="twilightforest-1.7.10-2.3.4.jar"
+             md5="d95808bcf67e4a15727588671f62d9a2"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/561673-"

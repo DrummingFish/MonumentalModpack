@@ -1,0 +1,274 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX" : -136,
+            "posY" : 50,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        },
+		
+		"title2":
+        {
+            "image" : "custommainmenu:textures/gui/MonumentalFULLBANNER3.png",
+            "posX" : -123,
+            "posY" : 95,
+            "width" : 250,
+            "height" : 25,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -148,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"openeye":
+        {
+			"wrappedButton" : 666,
+            "text" : "",
+            
+            "posX" : 104,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20
+        },
+		
+		"Github":
+        {
+            "text" : "Issue Tracker",
+			"alignment" : "top_right",
+            "posX" : -100,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/DrummingFish/MonumentalModpack/issues"
+            }
+        },
+ 
+        "Changelogs":
+        {
+            "text" : "Changelog",
+            "alignment" : "top_center",
+            "posX" : -50,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "http://www.atlauncher.com/pack/Monumental"
+            }  
+        },
+ 
+        "Minecraft Forum":
+        {
+            "text" : "MC Forum Post",
+			"alignment" : "top_left",
+            "posX" : 2,
+            "posY" : 2,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mod-packs/1293414-beta-v2-2-4a-monumental-modpack-available-on"
+            }  
+        },
+		
+		"Twitter":
+        {
+            "text" : "Twitter",
+			"hoverText" : "@TheDrummingFish",
+			"alignment" : "top_left",
+            "posX" : 2,
+            "posY" : 22,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://twitter.com/TheDrummingFish"
+            }  
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "mods":
+        {
+            "text" : "#modsloaded# mods loaded",
+            "posX" : -84,
+            "posY" : -25,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+		"forge":
+        {
+            "text" : "Minecraft Forge #forgeversion#",
+            "posX" : -146,
+            "posY" : -35,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+		"modpackname":
+        {
+            "text" : "Monumental Modpack",
+            "posX" : 2,
+            "posY" : -20,
+            "color" : 5592575,
+            "alignment" : "bottom_left"
+        },
+		
+		"modpackversion":
+        {
+            "text" : "BETA-2.2.5",
+            "posX" : 107,
+            "posY" : -20,
+            "color" : 16755200,
+            "alignment" : "bottom_left"
+        },
+		
+		"author":
+        {
+            "text" : "By DrummingFish",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : 16733525,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 80,
+            "color" : -256,
+            "alignment" : "top_center",
+            "file" : "texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
