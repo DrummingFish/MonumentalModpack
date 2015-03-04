@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.5a</version>
+        <version>BETA-v2.2.6</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -529,10 +529,10 @@
              authors="ChickenBones"
              description="Core library for all ChickenBones mods." />
 
-        <mod name="CoFH Core" version="3.0.0RC2-195"
-             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC2-195.jar"
-             file="CoFHCore-[1.7.10]3.0.0RC2-195.jar"
-             md5="043f4620a7d9819b9f750c3f69207338"
+        <mod name="CoFH Core" version="3.0.0RC3-203"
+             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC3-203.jar"
+             file="CoFHCore-[1.7.10]3.0.0RC3-203.jar"
+             md5="cd82c8f9dd759a5e69cf36600eae920b"
              download="server"
              type="mods"
              website="http://teamcofh.com/"
@@ -540,10 +540,10 @@
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Framework required for all Team CoFH mods." />
 
-        <mod name="CoFHLib" version="1.0.0B9-118"
-             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0B9-118.jar"
-             file="CoFHLib-[1.7.10]1.0.0B9-118.jar"
-             md5="9f4f5d77f7caf089a6e600e22d312179"
+        <mod name="CoFHLib" version="1.0.0RC3-120"
+             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0RC3-120.jar"
+             file="CoFHLib-[1.7.10]1.0.0RC3-120.jar"
+             md5="be37330ffd2557b832f7a6ee81cad7be"
              download="server"
              type="mods"
              website="http://www.curse.com/mc-mods/minecraft/220333-cofhlib"
@@ -633,10 +633,10 @@
              description="As the title says, Emotes lets you perform... emotes."
              optional="yes" />
 
-        <mod name="Enchiridion 2" version="2.0c"
-             url="packs/Monumental/files/1.7.10/Enchiridion 2-1.7.10-2.0c.jar"
-             file="Enchiridion 2-1.7.10-2.0c.jar"
-             md5="27d4ecda75d0565d8cd79c22293fec5b"
+        <mod name="Enchiridion 2" version="2.0d"
+             url="packs/Monumental/files/1.7.10/Enchiridion 2-1.7.10-2.0d.jar"
+             file="Enchiridion 2-1.7.10-2.0d.jar"
+             md5="29cd791392f1fcab1d8246f71efb59e0"
              download="server"
              type="mods"
              website="http://enchiridion.joshiejack.co.uk"
@@ -1222,10 +1222,10 @@
              authors="Stan Hebben"
              description="Modpack and server tool enabling the addition and removal of recipes." />
 
-        <mod name="MineTweaker Monumental Scripts" version="0.1.0"
-             url="packs/Monumental/files/1.7.10/scripts0.1.0.zip"
-             file="scripts0.1.0.zip"
-             md5="f988b298a861e171a98d439c9d0134a1"
+        <mod name="MineTweaker Monumental Scripts" version="0.2.0"
+             url="packs/Monumental/files/1.7.10/scripts0.2.0.zip"
+             file="scripts0.2.0.zip"
+             md5="15735b07f07b9b08aaee34ec1fcd1616"
              download="server"
              type="extract"
              extractto="root"
@@ -1607,10 +1607,10 @@
              authors="CovertJaguar"
              description="Redefine your rails." />
 
-        <mod name="Redstone Arsenal" version="1.1.0RC2-43"
-             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar"
-             file="RedstoneArsenal-[1.7.10]1.1.0RC2-43.jar"
-             md5="fcb1c96a555ed00d7871eef1fd65d537"
+        <mod name="Redstone Arsenal" version="1.1.0RC3-50"
+             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC3-50.jar"
+             file="RedstoneArsenal-[1.7.10]1.1.0RC3-50.jar"
+             md5="a36bffbbad7801f74fffc3da2aebb3c9"
              download="server"
              type="mods"
              depends="Thermal Expansion"
@@ -1775,20 +1775,20 @@
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." />
 
-        <mod name="Thermal Dynamics" version="1.0.0RC2-77"
-             url="packs/Monumental/files/1.7.10/ThermalDynamics-[1.7.10]1.0.0RC2-77.jar"
-             file="ThermalDynamics-[1.7.10]1.0.0RC2-77.jar"
-             md5="46ae5176f900560fc3ef4e6f50925fec"
+        <mod name="Thermal Dynamics" version="1.0.0RC3-90"
+             url="packs/Monumental/files/1.7.10/ThermalDynamics-[1.7.10]1.0.0RC3-90.jar"
+             file="ThermalDynamics-[1.7.10]1.0.0RC3-90.jar"
+             md5="f709a564e4fd227dea7f460558bae8e2"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics"
              authors="RWTema, Team CoFH"
              description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" />
 
-        <mod name="Thermal Expansion" version="4.0.0RC2-129"
-             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
-             file="ThermalExpansion-[1.7.10]4.0.0RC2-129.jar"
-             md5="877b0306b2be5fa51652ea721c9f2a4b"
+        <mod name="Thermal Expansion" version="4.0.0RC3-132"
+             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC3-132.jar"
+             file="ThermalExpansion-[1.7.10]4.0.0RC3-132.jar"
+             md5="cc5ff387279fe83be37886394fd9ceda"
              download="server"
              type="mods"
              depends="CoFH Core, Thermal Foundation"
@@ -1797,10 +1797,10 @@
              authors="KingLemmingCoFH, Cynycal, ZeldoKavira"
              description="Expanding Minecraft thermally - provides new options for automation and processing!" />
 
-        <mod name="Thermal Foundation" version="1.0.0RC3-56"
-             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC3-56.jar"
-             file="ThermalFoundation-[1.7.10]1.0.0RC3-56.jar"
-             md5="4ccfe39e36b52271d4019ca6c6be3897"
+        <mod name="Thermal Foundation" version="1.0.0RC4-58"
+             url="packs/Monumental/files/1.7.10/ThermalFoundation-[1.7.10]1.0.0RC4-58.jar"
+             file="ThermalFoundation-[1.7.10]1.0.0RC4-58.jar"
+             md5="3547c3526964de42b710cc3b6ddbad7d"
              download="server"
              type="mods"
              depends="CoFH Core"

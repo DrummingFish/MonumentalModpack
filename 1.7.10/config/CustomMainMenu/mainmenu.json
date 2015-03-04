@@ -5,7 +5,7 @@
         {
             "image" : "custommainmenu:textures/gui/minecraft.png",
             "posX" : -136,
-            "posY" : 50,
+            "posY" : 40,
             "width" : 512,
             "height" : 512,
             "alignment" : "top_center"
@@ -15,7 +15,7 @@
         {
             "image" : "custommainmenu:textures/gui/MonumentalFULLBANNER3.png",
             "posX" : -123,
-            "posY" : 95,
+            "posY" : 85,
             "width" : 250,
             "height" : 25,
             "alignment" : "top_center"
@@ -234,7 +234,7 @@
 		
 		"modpackversion":
         {
-            "text" : "BETA-2.2.5a",
+            "text" : "BETA-2.2.6",
             "posX" : 107,
             "posY" : -20,
             "color" : 16755200,

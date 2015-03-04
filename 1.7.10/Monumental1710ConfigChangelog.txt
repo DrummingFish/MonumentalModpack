@@ -24,6 +24,9 @@ Blood Magic
 	Mundane Lengthening Catalyst dungeon loot chance reduced from 20 to 15
 	Mundane Power Catalyst dungeon loot chance reduced from 20 to 15
 	Standard Binding Agent dungeon loot chance reduced from 30 to 20
+	
+bspkrsCore
+    Disable Main Menu mobs
 
 Buildcraft
 	Item lifespan increased from 1200 to 6000 ticks.
@@ -78,6 +81,9 @@ Ender IO
 
 Ender Storage
 	Disabled vanilla Ender Chest crafting
+	
+Extra Utilities
+    Disabled Watering Can (and variants)
 
 Forestry
 	Disabled Clockwork Engine (in NORMAL)
@@ -98,7 +104,7 @@ GregTech
 	Rain doesn't cause machines to explode
 
 Headcrumbs
-	Added my head (DrummingFish), my fiance's (TheGeekyGirl), and a couple of my friends (Rionque, alizdar24)
+	Added my head (DrummingFish), my fiancée's (TheGeekyGirl), and a couple of my friends (Rionque, alizdar24)
 	Disabled celebrity mobs
 
 Industrialcraft 2
