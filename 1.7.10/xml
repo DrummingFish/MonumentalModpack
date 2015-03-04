@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.5</version>
+        <version>BETA-v2.2.5a</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -1110,10 +1110,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.108"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.108.jar"
-             file="logisticspipes-0.8.3.108.jar"
-             md5="2e1a59117ec704ee46a782db1530e532"
+        <mod name="Logistics Pipes" version="0.8.3.104"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.104.jar"
+             file="logisticspipes-0.8.3.104.jar"
+             md5="aabafc2c3eff53a5ff10a9272b6be407"
              download="server"
              type="mods"
              depends="BuildCraft"
