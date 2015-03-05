@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.7</version>
+        <version>BETA-v2.2.7a</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -1268,17 +1268,17 @@
              authors="ProfMobius"
              description="Needed for ProfMobius mods." />
 
-        <mod name="ModTweaker 2" version="0.7.1"
-             url="packs/Monumental/files/1.7.10/ModTweaker2-1.7.X-0.7.1.jar"
-             file="ModTweaker2-1.7.X-0.7.1.jar"
-             md5="4bb9bf6dee460c586a72721decf63c58"
-             download="server"
-             type="mods"
-             depends="MineTweaker"
-             website="http://minecraft.curseforge.com/mc-mods/220954-modtweaker"
-             donation="http://www.patreon.com/joshiejack"
-             authors="jaredlll08, joshiejack"
-             description="ModTweaker is an addon for MineTweaker." />
+        <!--<mod name="ModTweaker 2" version="0.7.1" 
+            url="packs/Monumental/files/1.7.10/ModTweaker2-1.7.X-0.7.1.jar" 
+            file="ModTweaker2-1.7.X-0.7.1.jar" 
+            md5="4bb9bf6dee460c586a72721decf63c58" 
+            download="server" 
+            type="mods" 
+            depends="MineTweaker"
+            website="http://minecraft.curseforge.com/mc-mods/220954-modtweaker" 
+            donation="http://www.patreon.com/joshiejack" 
+            authors="jaredlll08, joshiejack"
+            description="ModTweaker is an addon for MineTweaker." />-->
 
         <mod name="Morph" version="0.9.1"
              url="packs/Monumental/files/1.7.10/Morph-Beta-0.9.1.jar"
