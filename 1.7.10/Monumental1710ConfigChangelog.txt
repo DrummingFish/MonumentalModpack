@@ -115,6 +115,9 @@ Industrialcraft 2
 
 JABBA
 	Structure upgrades now use Iron Fences instead of wooden ones
+	
+Mine & Blade
+    Disabled Chain
 
 MineChem
 	Disabled ore generation
@@ -156,6 +159,13 @@ OpenBlocks
 
 Powersuit Addons
     Disabled "cheaty" leather recipe
+    
+Railcraft
+    Disabled Copper world gen
+    Disabled Gold world gen
+    Disabled Iron world gen
+    Disabled Lead world gen
+    Disabled Tin world gen
 
 Thaumcraft
 	Added Thaumonomicon Cheat Sheet
@@ -167,6 +177,12 @@ Thermal Expansion
 	All machines allow recipe overwrites
 	Block Breaker uses Diamond Pickaxe instead of Invar Pickaxe
 	Pulveriser uses Diamonds instead of Flint
+	
+Thermal Foundation
+    Disabled all ores
+    
+Tinkers' Construct
+    Disabled gravel ores
 	
 VeinMiner
     Added tools to valid tools list

@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.2.7a</version>
+        <version>BETA-v2.3.0</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -200,10 +200,10 @@
              description="This library is a pure Java project for working with Ogg, Vorbis, FLAC, Opus, Speex and Theora files." />
 
         <!-- Main Mods (w/ Permission) -->
-        <mod name="Additional Buildcraft Objects" version="release2.2"
-             url="packs/Monumental/files/1.7.10/ABO-MC1.7.10-BC6.3-release2.2.jar"
-             file="ABO-MC1.7.10-BC6.3-release2.2.jar"
-             md5="ed895b12d70b2e57adab75935ccad91b"
+        <mod name="Additional Buildcraft Objects" version="release2.4"
+             url="packs/Monumental/files/1.7.10/ABO-MC1.7.10-BC6.4-release2.4.jar"
+             file="ABO-MC1.7.10-BC6.4-release2.4.jar"
+             md5="cf7d99b668916482220bcada1e716187"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -256,10 +256,10 @@
              authors="ganymedes01"
              description="Automatically detects every single ore from every single mod installed and creates the necessary dusts and etc in order for that metal to be processed on several mod's machines!" />
 
-        <mod name="Antique Atlas" version="4.2.1"
-             url="packs/Monumental/files/1.7.10/antiqueatlas-4.2.1-1.7.10.jar"
-             file="antiqueatlas-4.2.1-1.7.10.jar"
-             md5="66e829e69a1917d687e5903c5ea52389"
+        <mod name="Antique Atlas" version="4.2.2"
+             url="packs/Monumental/files/1.7.10/antiqueatlas-4.2.2-1.7.10.jar"
+             file="antiqueatlas-4.2.2-1.7.10.jar"
+             md5="0b91ba87cd1066b3f2de505e3814be50"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2045745-15216xforge-antique-atlas/"
@@ -314,10 +314,10 @@
              authors="Mithion"
              description="A look into what Minecraft could become if you add a splash of magic..." />
 
-        <mod name="AsieLib" version="0.3.9"
-             url="packs/Monumental/files/1.7.10/AsieLib-1.7.10-0.3.9.jar"
-             file="AsieLib-1.7.10-0.3.9.jar"
-             md5="15764802ccdf6f9e27b359642a6ad178"
+        <mod name="AsieLib" version="0.3.10"
+             url="packs/Monumental/files/1.7.10/AsieLib-1.7.10-0.3.10.jar"
+             file="AsieLib-1.7.10-0.3.10.jar"
+             md5="d5b848bee0bf19172d33a4574a592d8f"
              download="server"
              type="mods"
              website="http://mc.shinonome.ch/doku.php?id=wiki:asielib"
@@ -453,10 +453,10 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.3.7"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.3.7.jar"
-             file="buildcraft-6.3.7.jar"
-             md5="4ba0b2d9e94463e614195fe1956055de"
+        <mod name="BuildCraft" version="6.4.2"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.4.2.jar"
+             file="buildcraft-6.4.2.jar"
+             md5="e3a743d3c1f2bbe63954e4f8bdf8010e"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -464,10 +464,10 @@
              authors="asie, SpaceToad, BuildCraft Team"
              description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
 
-        <mod name="BuildCraft Compat" version="6.3.1"
-             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.3.1.jar"
-             file="buildcraft-compat-6.3.1.jar"
-             md5="c01b9f29242e02b9a8e2d40d644f80a3"
+        <mod name="BuildCraft Compat" version="6.4.0"
+             url="packs/Monumental/files/1.7.10/buildcraft-compat-6.4.0.jar"
+             file="buildcraft-compat-6.4.0.jar"
+             md5="fe0e3f13155063f0706f71c0e1855c08"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -485,10 +485,10 @@
              authors="Mineshopper"
              description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns." />
 
-        <mod name="ChickenChunks" version="1.3.4.17"
-             url="packs/Monumental/files/1.7.10/ChickenChunks-1.7.10-1.3.4.17-universal.jar"
-             file="ChickenChunks-1.7.10-1.3.4.17-universal.jar"
-             md5="512572cb9f60468ac9d6ec51b73e44ee"
+        <mod name="ChickenChunks" version="1.3.4.19"
+             url="packs/Monumental/files/1.7.10/ChickenChunks-1.7.10-1.3.4.19-universal.jar"
+             file="ChickenChunks-1.7.10-1.3.4.19-universal.jar"
+             md5="5592eda79bd2b52adf1d4bdceaa59b73"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -529,10 +529,10 @@
              authors="ChickenBones"
              description="Core library for all ChickenBones mods." />
 
-        <mod name="CoFH Core" version="3.0.0RC4-204"
-             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC4-204.jar"
-             file="CoFHCore-[1.7.10]3.0.0RC4-204.jar"
-             md5="fb849fcac1c81aa54e516e3479f1d5f5"
+        <mod name="CoFH Core" version="3.0.0RC5-207"
+             url="packs/Monumental/files/1.7.10/CoFHCore-[1.7.10]3.0.0RC5-207.jar"
+             file="CoFHCore-[1.7.10]3.0.0RC5-207.jar"
+             md5="2b97a71583f32f90358d0d096688333b"
              download="server"
              type="mods"
              website="http://teamcofh.com/"
@@ -540,10 +540,10 @@
              authors="KingLemmingCoFH, Cynycal, Zeldo"
              description="Framework required for all Team CoFH mods." />
 
-        <mod name="CoFHLib" version="1.0.0RC4-121"
-             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0RC4-121.jar"
-             file="CoFHLib-[1.7.10]1.0.0RC4-121.jar"
-             md5="13199c850adbcdabddf4bb8584d7788b"
+        <mod name="CoFHLib" version="1.0.0RC5-123"
+             url="packs/Monumental/files/1.7.10/CoFHLib-[1.7.10]1.0.0RC5-123.jar"
+             file="CoFHLib-[1.7.10]1.0.0RC5-123.jar"
+             md5="8871c1598a3c08c37aeb7ac942eff09d"
              download="server"
              type="mods"
              website="http://www.curse.com/mc-mods/minecraft/220333-cofhlib"
@@ -609,10 +609,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="DecoCraft" version="1.11"
-             url="packs/Monumental/files/1.7.10/Decocraft-v1.11_1.7.10.jar"
-             file="Decocraft-v1.11_1.7.10.jar"
-             md5="5ef620a47872fbec43f988da1c602a81"
+        <mod name="DecoCraft" version="1.12"
+             url="packs/Monumental/files/1.7.10/Decocraft-v1.12_1.7.10.jar"
+             file="Decocraft-v1.12_1.7.10.jar"
+             md5="1f759b29421c400378a1f16e036da9dc"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-1-7-10-1-7-2-1-6-4-decocraft-decorations-and"
@@ -958,18 +958,6 @@
              description="Hunger mechanics overhauled."
              optional="yes" />
 
-        <mod name="IC2 Backpack HUD" version="3.0"
-             url="packs/Monumental/files/1.7.10/IC2 Backpack HUD v3.0 - MC 1.7.10.zip"
-             file="IC2 Backpack HUD v3.0 - MC 1.7.10.zip"
-             md5="82dbb6d2e7ae5c95d525af462e8a34fd"
-             download="server"
-             type="mods"
-             depends="IndustrialCraft 2"
-             website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=8495"
-             authors="Mineshopper"
-             description="Provides a visual charge meter for IndustrialCraft 2 electric armor items and a health meter for other items."
-             server="no" />
-
         <mod name="iChunUtil" version="4.1.3"
              url="packs/Monumental/files/1.7.10/iChunUtil-4.1.3.jar"
              file="iChunUtil-4.1.3.jar"
@@ -981,10 +969,10 @@
              authors="iChun"
              description="Shared library mod required by several of iChun's Mods." />
 
-        <mod name="Immibis Core" version="59.0.7"
-             url="packs/Monumental/files/1.7.10/immibis-core-59.0.7.jar"
-             file="immibis-core-59.0.7.jar"
-             md5="bed0b1648645049613a8d2a420097011"
+        <mod name="Immibis Core" version="59.0.8"
+             url="packs/Monumental/files/1.7.10/immibis-core-59.0.8.jar"
+             file="immibis-core-59.0.8.jar"
+             md5="7725b64013f1949223e49583c102a219"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1001131-"
@@ -1002,10 +990,10 @@
              authors="immibis"
              description="Adds some useful and neat peripherals." />
 
-        <mod name="IndustrialCraft 2" version="2.2.687-experimental"
-             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.687-experimental.jar"
-             file="industrialcraft-2-2.2.687-experimental.jar"
-             md5="ef0e42e015a57ae3c724ba52cbeddf08"
+        <mod name="IndustrialCraft 2" version="2.2.691-experimental"
+             url="packs/Monumental/files/1.7.10/industrialcraft-2-2.2.691-experimental.jar"
+             file="industrialcraft-2-2.2.691-experimental.jar"
+             md5="09f2c7f931d97682eca30ab8d2fee4ca"
              download="server"
              type="mods"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9843"
@@ -1065,10 +1053,10 @@
              authors="cpw, progwml6"
              description="New chests with larger sizes, with in-place upgrade items." />
 
-        <mod name="JABBA" version="1.2.1"
-             url="packs/Monumental/files/1.7.10/Jabba-1.2.1_1.7.10.jar"
-             file="Jabba-1.2.1_1.7.10.jar"
-             md5="9d8788d8cfac57caf07be3eb74eae34c"
+        <mod name="JABBA" version="1.2.1a"
+             url="packs/Monumental/files/1.7.10/Jabba-1.2.1a_1.7.10.jar"
+             file="Jabba-1.2.1a_1.7.10.jar"
+             md5="4f5a214a8a0d1cc88420bd9eba0dec4d"
              download="server"
              type="mods"
              website="http://profmobius.blogspot.fr/search/label/JABBA"
@@ -1087,17 +1075,6 @@
              authors="FatherToast"
              description="This is a small mod that adds a new hostile monster to the game that spawns in lava and spits fireballs at you." />
 
-        <mod name="Liquid XP" version="59.0.0"
-             url="packs/Monumental/files/1.7.10/liquid-xp-59.0.0.jar"
-             file="liquid-xp-59.0.0.jar"
-             md5="dc5dfc350fb6f53e976abd1fe3d1983c"
-             download="server"
-             type="mods"
-             depends="Immibis Core"
-             website="http://www.minecraftforum.net/topic/1001131-"
-             authors="immibis"
-             description="Liquid XP and related machines." />
-
         <mod name="LiteLoader" version="1.7.10_04"
              url="packs/Monumental/files/1.7.10/liteloader-1.7.10.jar"
              file="liteloader-1.7.10.jar"
@@ -1110,10 +1087,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Logistics Pipes" version="0.8.3.104"
-             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.104.jar"
-             file="logisticspipes-0.8.3.104.jar"
-             md5="aabafc2c3eff53a5ff10a9272b6be407"
+        <mod name="Logistics Pipes" version="0.8.3.108"
+             url="packs/Monumental/files/1.7.10/logisticspipes-0.8.3.108.jar"
+             file="logisticspipes-0.8.3.108.jar"
+             md5="2e1a59117ec704ee46a782db1530e532"
              download="server"
              type="mods"
              depends="BuildCraft"
@@ -1167,6 +1144,16 @@
              authors="Micdoodle8, radfast"
              description="Provides core features for Micdoodle8&apos;s mods." />
 
+        <mod name="Mine &amp; Blade Battlegear 2" version="1.0.7.0"
+             url="packs/Monumental/files/1.7.10/1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar"
+             file="1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar"
+             md5="7a319a29f6fe7fe86a89922aaea5e010"
+             download="server"
+             type="mods"
+             website="http://www.curse.com/mc-mods/minecraft/mb-battlegear-2"
+             authors="nerd-boy, GotoLink, coolAlias"
+             description="A WIP, open-source combat mod, focusing on groundbreaking features and balanced combat." />
+
         <mod name="Mine Trading Cards" version="1.7.7"
              url="packs/Monumental/files/1.7.10/Mine Trading Cards-1.7.7.jar"
              file="Mine Trading Cards-1.7.7.jar"
@@ -1202,10 +1189,10 @@
              authors="pixlepix, jakimfett, MFernflower"
              description="Chemical industry in Minecraft!" />
 
-        <mod name="MineFactory Reloaded" version="2.8.0RC7-71"
-             url="packs/Monumental/files/1.7.10/MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar"
-             file="MineFactoryReloaded-[1.7.10]2.8.0RC7-71.jar"
-             md5="c8a20a297e4d197154576cb238f3081a"
+        <mod name="MineFactory Reloaded" version="2.8.0RC8-86"
+             url="packs/Monumental/files/1.7.10/MineFactoryReloaded-[1.7.10]2.8.0RC8-86.jar"
+             file="MineFactoryReloaded-[1.7.10]2.8.0RC8-86.jar"
+             md5="a7b25e72cd851ad1654c665caefa257b"
              download="server"
              type="mods"
              depends="CoFH Core"
@@ -1234,10 +1221,10 @@
              authors="Stan Hebben"
              description="Modpack and server tool enabling the addition and removal of recipes." />
 
-        <mod name="MineTweaker Monumental Scripts" version="0.3.0"
-             url="packs/Monumental/files/1.7.10/scripts0.3.0.zip"
-             file="scripts0.3.0.zip"
-             md5="0a9dd179a513db94726582fc2339dba9"
+        <mod name="MineTweaker Monumental Scripts" version="0.4.0"
+             url="packs/Monumental/files/1.7.10/scripts0.4.0.zip"
+             file="scripts0.4.0.zip"
+             md5="ab91192405a29a1c91f49797f102291d"
              download="server"
              type="extract"
              extractto="root"
@@ -1291,6 +1278,19 @@
              donation="http://www.patreon.com/ichun"
              authors="iChun"
              description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
+
+        <mod name="Mouse Tweaks" version="2.4.4"
+             url="packs/Monumental/files/1.7.10/MouseTweaks-2.4.4-mc1.7.10.jar"
+             file="MouseTweaks-2.4.4-mc1.7.10.jar"
+             md5="d4968eb0b513066313259fcd80bb8eb0"
+             download="server"
+             type="mods"
+             website="http://www.minecraftforum.net/topic/1518185-"
+             donation="https://www.paypal.com/cgi-bin/webscr?return=http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=yalterz%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;cancel_return=http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks&amp;lc=US&amp;item_name=Mouse+Tweaks+(from+curseforge.com)&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD"
+             authors="YaLTeR"
+             description="A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons."
+             optional="yes"
+             server="no" />
 
         <mod name="MrCrayfish's Furniture Mod" version="3.4.7"
              url="packs/Monumental/files/1.7.10/MrCrayfishFurnitureModv3.4.7(1.7.10).jar"
@@ -1374,10 +1374,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="NotEnoughItems" version="1.0.4.83"
-             url="packs/Monumental/files/1.7.10/NotEnoughItems-1.7.10-1.0.4.83-universal.jar"
-             file="NotEnoughItems-1.7.10-1.0.4.83-universal.jar"
-             md5="8988420f4c4781580df6d05130920f10"
+        <mod name="NotEnoughItems" version="1.0.4.90"
+             url="packs/Monumental/files/1.7.10/NotEnoughItems-1.7.10-1.0.4.90-universal.jar"
+             file="NotEnoughItems-1.7.10-1.0.4.90-universal.jar"
+             md5="a52ead42afaea9024156aa3a5c448f95"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -1501,6 +1501,17 @@
              description="Welcome to the wonderful world of Opis, the Minecraft Server profiler. This mod is a must-have for any server admin, as it will allow you to spot the chunks which are eating up your TPS, the worse tile entities or simply jump anywhere you want."
              optional="yes" />
 
+        <mod name="Pam&apos;s HarvestCraft" version="1.7.10g"
+             url="packs/Monumental/files/1.7.10/Pams HarvestCraft 1.7.10g.jar"
+             file="Pams HarvestCraft 1.7.10g.jar"
+             md5="01a3c287c9b43c13bb5e8cf6560bea92"
+             download="server"
+             type="mods"
+             website="http://minecraft.curseforge.com/members/MatrexsVigil/projects"
+             donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
+             authors="Pam, Rhodox"
+             description="An absolutely huge farming and food mod." />
+
         <mod name="Picture-in-Picture" version="4.0.0"
              url="packs/Monumental/files/1.7.10/PiP-4.0.0.jar"
              file="PiP-4.0.0.jar"
@@ -1536,10 +1547,10 @@
              authors="QMXTech, eximius88, Andrew2448"
              description="An addon for MachineMuse's Modular Powersuits which adds new modules and components." />
 
-        <mod name="ProjectRed Base" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-Base.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-Base.jar"
-             md5="865429f2f0549a837bf251a2e3b8b299"
+        <mod name="ProjectRed Base" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-Base.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-Base.jar"
+             md5="bac7d2b85bc7fa9091a955e292342745"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart"
@@ -1548,10 +1559,10 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="ProjectRed Compat" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-Compat.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-Compat.jar"
-             md5="83f78c76ad721bba08b4772ba8297ab9"
+        <mod name="ProjectRed Compat" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-Compat.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-Compat.jar"
+             md5="1708444c2dbb81787b74e1862668448f"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart, ProjectRed Base"
@@ -1560,10 +1571,10 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="ProjectRed Integration" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-Integration.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-Integration.jar"
-             md5="77a1d9e3338ca12005563fb9d5065063"
+        <mod name="ProjectRed Integration" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-Integration.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-Integration.jar"
+             md5="169eb873a2ce9e11587a850ac71eabce"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart, ProjectRed Base"
@@ -1572,10 +1583,10 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="ProjectRed Lighting" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-Lighting.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-Lighting.jar"
-             md5="7c34ac5296c518618e9d1f38e2f569dc"
+        <mod name="ProjectRed Lighting" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-Lighting.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-Lighting.jar"
+             md5="089b5417bbcfea7e008bb2a1b67c5897"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart, ProjectRed Base"
@@ -1584,10 +1595,10 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="ProjectRed Mechanical" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-Mechanical_beta.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-Mechanical_beta.jar"
-             md5="0242fc71f864c288b1a004397bb907da"
+        <mod name="ProjectRed Mechanical" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-Mechanical_beta.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-Mechanical_beta.jar"
+             md5="41482ea95eaaca8f82ba937983af9660"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart, ProjectRed Base"
@@ -1596,10 +1607,10 @@
              authors="MrTJP, ChickenBones"
              description="Redstone. The way it was meant to be." />
 
-        <mod name="ProjectRed World" version="4.5.13.65"
-             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.13.65-World.jar"
-             file="ProjectRed-1.7.10-4.5.13.65-World.jar"
-             md5="063c7a1d05c4120eb411567ea1d3334d"
+        <mod name="ProjectRed World" version="4.5.14.66"
+             url="packs/Monumental/files/1.7.10/ProjectRed-1.7.10-4.5.14.66-World.jar"
+             file="ProjectRed-1.7.10-4.5.14.66-World.jar"
+             md5="02d0e7a8d94839352d2d75ffdc3ed389"
              download="server"
              type="mods"
              depends="CodeChickenCore, ForgeMultipart, ProjectRed Base"
@@ -1619,10 +1630,10 @@
              authors="CovertJaguar"
              description="Redefine your rails." />
 
-        <mod name="Redstone Arsenal" version="1.1.0RC3-50"
-             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC3-50.jar"
-             file="RedstoneArsenal-[1.7.10]1.1.0RC3-50.jar"
-             md5="a36bffbbad7801f74fffc3da2aebb3c9"
+        <mod name="Redstone Arsenal" version="1.1.0RC4-54"
+             url="packs/Monumental/files/1.7.10/RedstoneArsenal-[1.7.10]1.1.0RC4-54.jar"
+             file="RedstoneArsenal-[1.7.10]1.1.0RC4-54.jar"
+             md5="a6aaabd77cceba99d9b30e61df629940"
              download="server"
              type="mods"
              depends="Thermal Expansion"
@@ -1787,10 +1798,10 @@
              authors="Benimatic (Ben Mazur)"
              description="An enchanted forest dimension." />
 
-        <mod name="Thermal Dynamics" version="1.0.0RC4-91"
-             url="packs/Monumental/files/1.7.10/ThermalDynamics-[1.7.10]1.0.0RC4-91.jar"
-             file="ThermalDynamics-[1.7.10]1.0.0RC4-91.jar"
-             md5="a6f711b3ca0b62ec1cae4a64c8212ea7"
+        <mod name="Thermal Dynamics" version="1.0.0RC5-94"
+             url="packs/Monumental/files/1.7.10/ThermalDynamics-[1.7.10]1.0.0RC5-94.jar"
+             file="ThermalDynamics-[1.7.10]1.0.0RC5-94.jar"
+             md5="3967bc801182f7f27a4689f67c8b136d"
              download="server"
              type="mods"
              depends="CoFH Core, Thermal Foundation"
@@ -1798,10 +1809,10 @@
              authors="RWTema, Team CoFH"
              description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" />
 
-        <mod name="Thermal Expansion" version="4.0.0RC4-135"
-             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC4-135.jar"
-             file="ThermalExpansion-[1.7.10]4.0.0RC4-135.jar"
-             md5="4cc5c1f2336bbc30ae940e17b7fb2173"
+        <mod name="Thermal Expansion" version="4.0.0RC6-138"
+             url="packs/Monumental/files/1.7.10/ThermalExpansion-[1.7.10]4.0.0RC6-138.jar"
+             file="ThermalExpansion-[1.7.10]4.0.0RC6-138.jar"
+             md5="c0cc9e51c7b59924b23e75f8b7c469fe"
              download="server"
              type="mods"
              depends="CoFH Core, Thermal Foundation"
@@ -1979,15 +1990,26 @@
              optional="yes"
              server="no" />
 
-        <mod name="Witchery" version="0.22.0"
-             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.22.0.jar"
-             file="witchery-1.7.10-0.22.0.jar"
-             md5="1c7ce491cb97912eec377175d38c500a"
+        <mod name="Witchery" version="0.23.0"
+             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.23.0.jar"
+             file="witchery-1.7.10-0.23.0.jar"
+             md5="3e61890f9bd6617786a875677603cbe4"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1992544-"
              authors="Emoniph"
              description="Extending Minecraft with witchcraft." />
+
+        <mod name="Witching Gadgets" version="1.0.7"
+             url="packs/Monumental/files/1.7.10/WitchingGadgets-1.7.10-1.0.7.jar"
+             file="WitchingGadgets-1.7.10-1.0.7.jar"
+             md5="b94540ae8b2c505cef39de6b378b0ffd"
+             download="server"
+             type="mods"
+             depends="Thaumcraft, Traveller's Gear"
+             website="http://forum.feed-the-beast.com/threads/1-7-10-thaumcraft-addon-witching-gadgets.68492/"
+             authors="BluSunrize"
+             description="It&apos;s a kind of magic" />
 
         <mod name="WR-CBE" version="1.4.1.9"
              url="packs/Monumental/files/1.7.10/WR-CBE-1.7.10-1.4.1.9-universal.jar"
