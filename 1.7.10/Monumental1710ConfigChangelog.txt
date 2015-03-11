@@ -118,6 +118,7 @@ JABBA
 	
 Mine & Blade
     Disabled Chain
+    Disable Skeletons being able to use explosive arrows
 
 MineChem
 	Disabled ore generation

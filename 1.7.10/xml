@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>BETA-v2.3.0</version>
+        <version>BETA-v2.3.1</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -277,10 +277,10 @@
              donation="http://www.patreon.com/squeek502"
              description="An API for modifying the food and hunger mechanics of Minecraft." />
 
-        <mod name="Applied Energistics" version="rv2-beta-8"
-             url="packs/Monumental/files/1.7.10/appliedenergistics2-rv2-beta-8.jar"
-             file="appliedenergistics2-rv2-beta-8.jar"
-             md5="0208d8e92085e0cec7e43ac8665733a2"
+        <mod name="Applied Energistics 2" version="rv2-beta-10"
+             url="packs/Monumental/files/1.7.10/appliedenergistics2-rv2-beta-10.jar"
+             file="appliedenergistics2-rv2-beta-10.jar"
+             md5="ecde1254887b2b6ecee34e92da763e33"
              download="server"
              type="mods"
              website="http://ae-mod.info/"
@@ -372,10 +372,10 @@
              authors="copygirl, copyboy"
              description="Adds more storage related blocks and items to the game." />
 
-        <mod name="BiblioCraft" version="1.9.2"
-             url="packs/Monumental/files/1.7.10/BiblioCraft[v1.9.2][MC1.7.10].jar"
-             file="BiblioCraft[v1.9.2][MC1.7.10].jar"
-             md5="b450840b9ef5d1417773e9bfafc29e69"
+        <mod name="BiblioCraft" version="1.10.0"
+             url="packs/Monumental/files/1.7.10/BiblioCraft[v1.10.0][MC1.7.10].jar"
+             file="BiblioCraft[v1.10.0][MC1.7.10].jar"
+             md5="d47c8ac0a6e42f3be9dc65a01e7437bf"
              download="server"
              type="mods"
              website="http://www.bibliocraftmod.com"
@@ -419,10 +419,10 @@
              authors="Joseph 'Nuchaz' Sinclair"
              description="Adds support for 13 varieties of wood from Natura for 8 of the wooden blocks in BiblioCraft." />
 
-        <mod name="Binnie's Mods" version="2.0-pre7"
-             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre7.jar"
-             file="binnie-mods-2.0-pre7.jar"
-             md5="2b158fbeed086bae31281e684c6b591c"
+        <mod name="Binnie's Mods" version="2.0-pre8"
+             url="packs/Monumental/files/1.7.10/binnie-mods-2.0-pre8.jar"
+             file="binnie-mods-2.0-pre8.jar"
+             md5="0b401fcd74ac53ed50e0902bd4408808"
              download="server"
              type="mods"
              depends="Forestry"
@@ -453,10 +453,10 @@
              authors="WayofTime"
              description="Gruesome? Probably. Worth it? Definately!" />
 
-        <mod name="BuildCraft" version="6.4.2"
-             url="packs/Monumental/files/1.7.10/buildcraft-6.4.2.jar"
-             file="buildcraft-6.4.2.jar"
-             md5="e3a743d3c1f2bbe63954e4f8bdf8010e"
+        <mod name="BuildCraft" version="6.4.3"
+             url="packs/Monumental/files/1.7.10/buildcraft-6.4.3.jar"
+             file="buildcraft-6.4.3.jar"
+             md5="13f90767f79bcabbb9dcc40b5a560d6e"
              download="server"
              type="mods"
              website="http://www.mod-buildcraft.com/"
@@ -609,10 +609,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="DecoCraft" version="1.12"
-             url="packs/Monumental/files/1.7.10/Decocraft-v1.12_1.7.10.jar"
-             file="Decocraft-v1.12_1.7.10.jar"
-             md5="1f759b29421c400378a1f16e036da9dc"
+        <mod name="DecoCraft" version="1.12b"
+             url="packs/Monumental/files/1.7.10/Decocraft-v1.12b_1.7.10.jar"
+             file="Decocraft-v1.12b_1.7.10.jar"
+             md5="848a448f9ad8b19cc07b1cc2b305b487"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292016-1-7-10-1-7-2-1-6-4-decocraft-decorations-and"
@@ -655,10 +655,10 @@
              authors="crazypants, tterrag"
              description="Compact conduits, painted things and access to your stuff through an eye of ender." />
 
-        <mod name="Ender Storage" version="1.4.5.27"
-             url="packs/Monumental/files/1.7.10/EnderStorage-1.7.10-1.4.5.27-universal.jar"
-             file="EnderStorage-1.7.10-1.4.5.27-universal.jar"
-             md5="f0f25409643db8045a5fb36a3ab7387c"
+        <mod name="Ender Storage" version="1.4.5.28"
+             url="packs/Monumental/files/1.7.10/EnderStorage-1.7.10-1.4.5.28-universal.jar"
+             file="EnderStorage-1.7.10-1.4.5.28-universal.jar"
+             md5="57f1f6369459545ee70f99fb214312f5"
              download="server"
              type="mods"
              depends="CodeChickenCore"
@@ -711,10 +711,10 @@
              authors="RWTema"
              description="Just a bunch of fairly useful things." />
 
-        <mod name="ExtraCells 2" version="2.2.56b86"
-             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.56b86.jar"
-             file="ExtraCells-1.7.10-2.2.56b86.jar"
-             md5="73d380dcc5e1e70e8f681ffd5ec67ad7"
+        <mod name="ExtraCells 2" version="2.2.58b88"
+             url="packs/Monumental/files/1.7.10/ExtraCells-1.7.10-2.2.58b88.jar"
+             file="ExtraCells-1.7.10-2.2.58b88.jar"
+             md5="aeddb4d1bd7425e186ac27b6d0ec94a0"
              download="server"
              type="mods"
              depends="Applied Energistics"
@@ -832,10 +832,10 @@
              authors="BDew"
              description="Advanced apiaries and genetic machines for bees." />
 
-        <mod name="Glass Shards" version="1.2"
-             url="packs/Monumental/files/1.7.10/glass_shards-1.2.jar"
-             file="glass_shards-1.2.jar"
-             md5="1ebffe38019fad2428a563dbc09e91bc"
+        <mod name="Glass Shards" version="1.2.1"
+             url="packs/Monumental/files/1.7.10/glass_shards-1.2.1.jar"
+             file="glass_shards-1.2.1.jar"
+             md5="a960f97c14c661cad90594b78a0ce331"
              download="server"
              type="mods"
              website="http://minecraft.curseforge.com/mc-mods/226834-glass-shards"
@@ -1244,10 +1244,10 @@
              description="MoarSigns adds a lot of signs based on wood and metal from other mods."
              optional="yes" />
 
-        <mod name="MobiusCore" version="1.2.3"
-             url="packs/Monumental/files/1.7.10/MobiusCore-1.2.3_1.7.10.jar"
-             file="MobiusCore-1.2.3_1.7.10.jar"
-             md5="2f6af16859c7f6b752cbbc9f1cabf5af"
+        <mod name="MobiusCore" version="1.2.4"
+             url="packs/Monumental/files/1.7.10/MobiusCore-1.2.4_1.7.10.jar"
+             file="MobiusCore-1.2.4_1.7.10.jar"
+             md5="d7bce3de1bd7953133380ff33afa714a"
              download="server"
              type="mods"
              website="http://profmobius.blogspot.fr/"
@@ -1255,17 +1255,17 @@
              authors="ProfMobius"
              description="Needed for ProfMobius mods." />
 
-        <!--<mod name="ModTweaker 2" version="0.7.1" 
-            url="packs/Monumental/files/1.7.10/ModTweaker2-1.7.X-0.7.1.jar" 
-            file="ModTweaker2-1.7.X-0.7.1.jar" 
-            md5="4bb9bf6dee460c586a72721decf63c58" 
-            download="server" 
-            type="mods" 
-            depends="MineTweaker"
-            website="http://minecraft.curseforge.com/mc-mods/220954-modtweaker" 
-            donation="http://www.patreon.com/joshiejack" 
-            authors="jaredlll08, joshiejack"
-            description="ModTweaker is an addon for MineTweaker." />-->
+        <mod name="ModTweaker 2" version="0.7.3"
+             url="packs/Monumental/files/1.7.10/ModTweaker 2-0.7.3.jar"
+             file="ModTweaker 2-0.7.3.jar"
+             md5="00207aeedf51e0a7dabc09457a583e6c"
+             download="server"
+             type="mods"
+             depends="MineTweaker"
+             website="http://minecraft.curseforge.com/mc-mods/220954-modtweaker"
+             donation="http://www.patreon.com/joshiejack"
+             authors="jaredlll08, joshiejack"
+             description="ModTweaker is an addon for MineTweaker." />
 
         <mod name="Morph" version="0.9.1"
              url="packs/Monumental/files/1.7.10/Morph-Beta-0.9.1.jar"
@@ -1488,10 +1488,10 @@
              authors="Mikee, NeverCast, boq, Lyqyd"
              description="Adds generic adapters for various blocks from vanilla and other mods." />
 
-        <mod name="Opis" version="1.2.3"
-             url="packs/Monumental/files/1.7.10/Opis-1.2.3_1.7.10.jar"
-             file="Opis-1.2.3_1.7.10.jar"
-             md5="b6cbb92875c73349b88e597e14b96587"
+        <mod name="Opis" version="1.2.4a"
+             url="packs/Monumental/files/1.7.10/Opis-1.2.4a_1.7.10.jar"
+             file="Opis-1.2.4a_1.7.10.jar"
+             md5="57e803c59ac78eefc586583049156c03"
              download="server"
              type="mods"
              depends="MobiusCore"
@@ -1859,10 +1859,10 @@
              authors="mDiyo, fuj1n, ProgWML6, Sunstrike"
              description="A little of this, a little of that, a lot of tinkering, and a lot of tools." />
 
-        <mod name="Tinkers' Mechworks" version="0.2.13.96"
-             url="packs/Monumental/files/1.7.10/TMechworks-1.7.10-0.2.13.96.jar"
-             file="TMechworks-1.7.10-0.2.13.96.jar"
-             md5="8b72139476eacc9828eccc58de00f995"
+        <mod name="Tinkers' Mechworks" version="0.2.14.100"
+             url="packs/Monumental/files/1.7.10/TMechworks-1.7.10-0.2.14.100.jar"
+             file="TMechworks-1.7.10-0.2.14.100.jar"
+             md5="6712a665abfd927fe06b34fa9de338cc"
              download="server"
              type="mods"
              depends="Tinkers' Construct"
@@ -1928,10 +1928,10 @@
              authors="immibis"
              description="A collection of blocks that are useful with BuildCraft or RedPower." />
 
-        <mod name="Vein Miner" version="0.26.0"
-             url="packs/Monumental/files/1.7.10/VeinMiner-1.7.10_0.26.0.unknown.jar"
-             file="VeinMiner-1.7.10_0.26.0.unknown.jar"
-             md5="b649dcd052afbb89f89a3060a2ae8d70"
+        <mod name="Vein Miner" version="0.26.1"
+             url="packs/Monumental/files/1.7.10/VeinMiner-1.7.10_0.26.1.unknown.jar"
+             file="VeinMiner-1.7.10_0.26.1.unknown.jar"
+             md5="a79c91b978755aac074d80ac8fb3adcd"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/2033580-"
@@ -1990,10 +1990,10 @@
              optional="yes"
              server="no" />
 
-        <mod name="Witchery" version="0.23.0"
-             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.23.0.jar"
-             file="witchery-1.7.10-0.23.0.jar"
-             md5="3e61890f9bd6617786a875677603cbe4"
+        <mod name="Witchery" version="0.23.1"
+             url="packs/Monumental/files/1.7.10/witchery-1.7.10-0.23.1.jar"
+             file="witchery-1.7.10-0.23.1.jar"
+             md5="a8980eb42620a1e65933fa8390294bea"
              download="server"
              type="mods"
              website="http://www.minecraftforum.net/topic/1992544-"
