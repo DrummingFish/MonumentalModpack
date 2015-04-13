@@ -1,10 +1,12 @@
 Advanced Machines
 	Recipes use Ore Dictionary Iron Plate
+	Enabled explosions
 
 Applied Energistics
 	Certus Quartz and Nether Quartz tools disabled
 	Grinder ore doubling reduced from 90% to 50%
 	Meteorite spawn chance reduced from 0.3 to 0.2
+	Enabled coloured cable recipes in NEI
 
 ArmorStatusHUD
 	Changed position to middle-left of screen
@@ -37,20 +39,6 @@ Chisel 2
 CoFH Core
 	FlatBedrock enabled
 	Wither Skeletons drop heads enabled
-
-Deadly World
-	Disable "mine" generation
-	Boss frequency reduced from 0.2 to 0.1
-	Brutal Spawner frequency reduced from 0.1 to 0.05
-	Fire Trap frequency reduced from 0.35 to 0.1
-	Potion Trap frequency reduced from 0.2 to 0.1
-	Silverfish Nest frequency reduced from 0.15 to 0.1
-	Spawner frequency reduced from 0.2 to 0.1
-	Spawner Trap frequency reduced from 0.15 to 0.1
-	Tower frequency reduced from 0.35 to 0.2
-	Will be enabled whether the world was created with the mod installed or not
-	Disabled chance of carpet covering traps
-	Traps generating with a cover block over them reduced from 0.8 to 0.4
 
 Ender IO
 	Glider cost increased from 10 to 30 lvls
@@ -85,6 +73,9 @@ Ender Storage
 Extra Utilities
     Disabled Watering Can (and variants)
 
+Forbidden Magic
+    Disabled Silverfish's Emerald Nugget drop
+
 Forestry
 	Disabled Clockwork Engine (in NORMAL)
 	Difficulty set to NORMAL
@@ -102,6 +93,13 @@ GregTech
 	HarderMobSpawners set to false
 	Lightning doesn't cause explosions
 	Rain doesn't cause machines to explode
+
+Hardcore Ender Expansion
+    Disabled Hardcore Enderbacon mode
+
+Harvestcraft
+    Enabled Twilight Forest Fruit Tree gen
+    Enabled Twilight Forest Garden gen
 
 Headcrumbs
 	Added my head (DrummingFish), my fiancée's (TheGeekyGirl), and a couple of my friends (Rionque, alizdar24)
